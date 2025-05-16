@@ -1,0 +1,16 @@
+0.1 4
+10
+12
+0 0 100
+.False. .true. .true. .false.
+100 100000 1
+1 30
+20 0.3
+0
+15 (0.0,10) (0,0.0) 0 0.1
+1.0d-12 1.0d-12 1.0d-10 1.0
+../data/initial_x.dat
+../data/bw_parameters.dat
+../output/x_history.dat
+../output/z_history.dat
+../output/phi_history.dat

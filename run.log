@@ -1,0 +1,2874 @@
+nohup: ignoring input
+ Reading initial state from file:
+ ../data/initial_x.dat                                                          
+                                                                                
+                                                                                
+                    
+          20
+ Generating Markov chain...
+ Progress:   1.000000000000000E-002 %  |  Elapsed:   212.435140176676      
+ sec  |  ETA:   2124138.96662659      sec
+ Acceptance rate  0.9000000    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:   2.000000000000000E-002 %  |  Elapsed:   303.061191658024      
+ sec  |  ETA:   1515002.89709846      sec
+ Acceptance rate  0.9000000    
+ current tolerance  1.000000000000000E-010
+ Progress:   3.000000000000000E-002 %  |  Elapsed:   382.109070651699      
+ sec  |  ETA:   1273314.79310168      sec
+ Acceptance rate  0.9000000    
+ current tolerance  1.000000000000000E-010
+ Progress:   4.000000000000000E-002 %  |  Elapsed:   434.553298491286      
+ sec  |  ETA:   1085948.69292972      sec
+ Acceptance rate  0.9250000    
+ current tolerance  1.000000000000000E-010
+ Progress:   5.000000000000000E-002 %  |  Elapsed:   464.459887698293      
+ sec  |  ETA:   928455.315508887      sec
+ Acceptance rate  0.9400000    
+ current tolerance  1.000000000000000E-010
+ Progress:   6.000000000000000E-002 %  |  Elapsed:   478.437590959948      
+ sec  |  ETA:   796917.547342286      sec
+ Acceptance rate  0.9500000    
+ current tolerance  1.000000000000000E-010
+ Progress:   7.000000000000001E-002 %  |  Elapsed:   522.857089772122      
+ sec  |  ETA:   746415.842584688      sec
+ Acceptance rate  0.9571428    
+ current tolerance  1.000000000000000E-010
+ Progress:   8.000000000000000E-002 %  |  Elapsed:   546.546111975564      
+ sec  |  ETA:   682636.093857479      sec
+ Acceptance rate  0.9625000    
+ current tolerance  1.000000000000000E-010
+ Progress:   9.000000000000000E-002 %  |  Elapsed:   573.374980719062      
+ sec  |  ETA:   636509.936929349      sec
+ Acceptance rate  0.9555556    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:   0.100000000000000      %  |  Elapsed:   607.040130994050      
+ sec  |  ETA:   606433.090863056      sec
+ Acceptance rate  0.9500000    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:   0.110000000000000      %  |  Elapsed:   648.364086120389      
+ sec  |  ETA:   588773.532386961      sec
+ Acceptance rate  0.9454545    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.120000000000000      %  |  Elapsed:   694.016771570081      
+ sec  |  ETA:   577653.292870164      sec
+ Acceptance rate  0.9500000    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.130000000000000      %  |  Elapsed:   719.124592722161      
+ sec  |  ETA:   552453.639039709      sec
+ Acceptance rate  0.9461538    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.140000000000000      %  |  Elapsed:   748.313722618390      
+ sec  |  ETA:   533761.488147660      sec
+ Acceptance rate  0.9500000    
+ current tolerance  1. not converged
+ Progress:   0.130000000000000      %  |  Elapsed:   805.988698903704      
+ sec  |  ETA:   619185.318150099      sec
+ Acceptance rate  0.9461538    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ Progress:   0.140000000000000      %  |  Elapsed:   1045.91885921499      
+ sec  |  ETA:   746038.980580062      sec
+ Acceptance rate  0.9214286    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:   0.150000000000000      %  |  Elapsed:   1102.46682323376      
+ sec  |  ETA:   733875.415332604      sec
+ Acceptance rate  0.9200000    
+ cur Progress:   0.180000000000000      %   Progress:   0.160000000000000      %  |  Elapsed:   1173.52207934042      
+ sec  |  ETA:   732277.777508419      sec
+ Acceptance rate  0.9250000    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:   0.170000000000000      %  |  Elapsed:   1225.69637432578      
+ sec  |  ETA:   719772.170876133      sec
+ Acceptance rate  0.9176471    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.180000000000000      %  |  Elapsed:   1324.26442248910      
+ sec  |  ETA:   734378.192515898      sec
+ Acceptance rate  0.9222222    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.190000000000000      %  |  Elapsed:   1393.37411045004      
+ sec  |  ETA:   731961.420863254      sec
+ Acceptance rate  0.9263158    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.200000000000000      %  |  Elapsed:   1429.14236121415      
+ sec  |  ETA:   713142.038245862      sec
+ Acceptance rate  0.9300000    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.210000000000000      %  |  Elapsed:   1556.64095912897      
+ sec  |  ETA:   739700.958626095      sec
+ Acceptance rate  0.9285714    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.220000000000000      %  |  Elapsed:   1755.31179978768      
+ sec  |  ETA:   796113.688103705      sec
+ Acceptance rate  0.9318182    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.230000000000000      %  |  Elapsed:   2079.55976414774      
+ sec  |  ETA:   902076.859430520      sec
+ Acceptance rate  0.9130435    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.240000000000000      %  |  Elapsed:   2463.51640943601      
+ sec  |  ETA:   1024001.65418890      sec
+ Acceptance rate  0.8916667    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.250000000000000      %  |  Elapsed:   2791.23306665872      
+ sec  |  ETA:   1113701.99359683      sec
+ Acceptance rate  0.8760000    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.260000000000000      %  |  Elapsed:   3256.33813625202      
+ sec  |  ETA:   1249181.40657606      sec
+ Acceptance rate  0.8538461    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.270000000000000      %  |  Elapsed:   3676.23050826183      
+ sec  |  ETA:   1357890.62440353      sec
+ Acceptance rate  0.8296296    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.280000000000000      %  |  Elapsed:   4027.96996841510      
+ sec  |  ETA:   1434532.73303698      sec
+ Acceptance rate  0.8178571    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.290000000000000      %  |  Elapsed:   4451.69734639511      
+ sec  |  ETA:   1530616.35313468      sec
+ Acceptance rate  0.8241379    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:   0.300000000000000      %  |  Elapsed:   4821.42028506892      
+ sec  |  ETA:   1602318.67473790      sec
+ Acceptance rate  0.8266667    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.310000000000000      %  |  Elapsed:   4987.38887939160      
+ sec  |  ETA:   1603847.73350499      sec
+ Acceptance rate  0.8322580    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.320000000000000      %  |  Elapsed:   5209.30597055424      
+ sec  |  ETA:   1622698.80982765      sec
+ Acceptance rate  0.8375000    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.330000000000000      %  |  Elapsed:   5425.43616861734      
+ sec  |  ETA:   1638646.13007906      sec
+ Acceptance rate  0.8424242    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ Progress:   0.340000000000000      %  |  Elapsed:   5750.11032629642      
+ sec  |  ETA:   1685458.80917265      sec
+ Acceptance rate  0.8411765    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ Progress:   0.350000000000000      %  |  Elapsed:   6069.24411024735      
+ sec  |  ETA:   1728000.50167471      sec
+ Acceptance rate  0.8400000    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.360000000000000      %  |  Elapsed:   6521.99559104117      
+ sec  |  ETA:   1805143.44636484      sec
+ Acceptance rate  0.8333333    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:   0.370000000000000      %  |  Elapsed:   6838.43629115145      
+ sec  |  ETA:   1841387.58834437      sec
+ Acceptance rate  0.8351352    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ Progress:   0.380000000000000      %  |  Elapsed:   7041.72844222677      
+ sec  |  ETA:   1846044.70372271      sec
+ Acceptance rate  0.8315790    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.390000000000000      %  |  Elapsed:   7111.75746998168      
+ sec  |  ETA:   1816415.79893558      sec
+ Acceptance rate  0.8358974    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.400000000000000      %  |  Elapsed:   7163.71041524783      
+ sec  |  ETA:   1783763.89339671      sec
+ Acceptance rate  0.8400000    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.410000000000000      %  |  Elapsed:   7243.49904690566      
+ sec  |  ETA:   1759463.58556423      sec
+ Acceptance rate  0.8439025    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:   0.420000000000000      %  |  Elapsed:   7488.79514016584      
+ sec  |  ETA:   1775557.66680408      sec
+ Acceptance rate  0.8452381    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ Progress:   0.430000000000000      %  |  Elapsed:   7743.96774303075      
+ sec  |  ETA:   1793178.76319435      sec
+ Acceptance rate  0.8418605    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.440000000000000      %  |  Elapsed:   7792.41486424743      
+ sec  |  ETA:   1763210.96337381      sec
+ Acceptance rate  0.8454546    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.450000000000000      %  |  Elapsed:   7856.15727257798      
+ sec  |  ETA:   1737956.56996697      sec
+ Acceptance rate  0.8488889    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.460000000000000      %  |  Elapsed:   7909.51902507478      
+ sec  |  ETA:   1711551.13859988      sec
+ Acceptance rate  0.8521739    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.470000000000000      %  |  Elapsed:   8249.64141423185      
+ sec  |  ETA:   1746993.21267765      sec
+ Acceptance rate  0.8446808    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.480000000000000      %  |  Elapsed:   8653.10160766821      
+ sec  |  ETA:   1794076.39998988      sec
+ Acceptance rate  0.8291667    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.490000000000000      %  |  Elapsed:   8978.44811740262      
+ sec  |  ETA:   1823357.90237293      sec
+ Acceptance rate  0.8244898    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.500000000000000      %  |  Elapsed:   9118.66720918706      
+ sec  |  ETA:   1814614.77462822      sec
+ Acceptance rate  0.8280000    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ Progress:   0.510000000000000      %  |  Elapsed:   9237.02209197427      
+ sec  |  ETA:   1801943.78025592      sec
+ Acceptance rate  0.8274510    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ Progress:   0.520000000000000      %  |  Elapsed:   9378.86275074771      
+ sec  |  ETA:   1794248.58931612      sec
+ Acceptance rate  0.8250000    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.530000000000000      %  |  Elapsed:   9542.90471567074      
+ sec  |  ETA:   1791005.15484485      sec
+ Acceptance rate  0.8283019    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.540000000000000      %  |  Elapsed:   9747.70629211958      
+ sec  |  ETA:   1795383.08854484      sec
+ Acceptance rate  0.8314815    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.550000000000000      %  |  Elapsed:   9911.61662567477      
+ sec  |  ETA:   1792200.49713337      sec
+ Acceptance rate  0.8345454    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.560000000000000      %  |  Elapsed:   9984.77104582498      
+ sec  |  ETA:   1773010.05856578      sec
+ Acceptance rate  0.8375000    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.570000000000000      %  |  Elapsed:   10051.8407077456      
+ sec  |  ETA:   1753428.98521254      sec
+ Acceptance rate  0.8385965    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.580000000000000      %  |  Elapsed:   10096.5025160331      
+ sec  |  ETA:   1730679.79335175      sec
+ Acceptance rate  0.8413793    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ Progress:   0.590000000000000      %  |  Elapsed:   10133.8427462210      
+ sec  |  ETA:   1707466.62271496      sec
+ Acceptance rate  0.8389831    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.600000000000000      %  |  Elapsed:   10250.8785196820      
+ sec  |  ETA:   1698228.87476065      sec
+ Acceptance rate  0.8416666    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.610000000000000      %  |  Elapsed:   10367.5512903871      
+ sec  |  ETA:   1689231.02090421      sec
+ Acceptance rate  0.8409836    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.620000000000000      %  |  Elapsed:   10969.1809365842      
+ sec  |  ETA:   1758253.55077055      sec
+ Acceptance rate  0.8338709    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.630000000000000      %  |  Elapsed:   11488.7264153443      
+ sec  |  ETA:   1812118.64109962      sec
+ Acceptance rate  0.8238095    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.640000000000000      %  |  Elapsed:   11923.7829848020      
+ sec  |  ETA:   1851167.30839052      sec
+ Acceptance rate  0.8140625    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.650000000000000      %  |  Elapsed:   12273.3909427274      
+ sec  |  ETA:   1875940.60024611      sec
+ Acceptance rate  0.8046154    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.660000000000000      %  |  Elapsed:   12635.6685477919      
+ sec  |  ETA:   1901859.56596613      sec
+ Acceptance rate  0.7954546    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.670000000000000      %  |  Elapsed:   13154.1852632575      
+ sec  |  ETA:   1950157.04805875      sec
+ Acceptance rate  0.7865672    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.680000000000000      %  |  Elapsed:   13544.0863282683      
+ sec  |  ETA:   1978233.31488766      sec
+ Acceptance rate  0.7794118    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.690000000000000      %  |  Elapsed:   13908.6348478806      
+ sec  |  ETA:   2001835.54600438      sec
+ Acceptance rate  0.7724637    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.700000000000000      %  |  Elapsed:   14387.3048335356      
+ sec  |  ETA:   2040941.95710012      sec
+ Acceptance rate  0.7700000    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.710000000000000      %  |  Elapsed:   14753.3851703426      
+ sec  |  ETA:   2063188.18811735      sec
+ Acceptance rate  0.7661972    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.720000000000000      %  |  Elapsed:   15132.5193217867      
+ sec  |  ETA:   2086606.27537081      sec
+ Acceptance rate  0.7569444    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ Progress:   0.730000000000000      %  |  Elapsed:   15527.1942726956      
+ sec  |  ETA:   2111485.71979519      sec
+ Acceptance rate  0.7575343    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:   0.740000000000000      %  |  Elapsed:   15727.5368666202      
+ sec  |  ETA:   2109615.28294692      sec
+ Acceptance rate  0.7594594    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:   0.750000000000000      %  |  Elapsed:   15805.6076045483      
+ sec  |  ETA:   2091608.73966856      sec
+ Acceptance rate  0.7613333    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.760000000000000      %  |  Elapsed:   15864.4994565167      
+ sec  |  ETA:   2071569.63955884      sec
+ Acceptance rate  0.7631579    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.770000000000000      %  |  Elapsed:   15934.3048617428      
+ sec  |  ETA:   2053455.93692303      sec
+ Acceptance rate  0.7662337    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.780000000000000      %  |  Elapsed:   15955.6016345862      
+ sec  |  ETA:   2029634.35151749      sec
+ Acceptance rate  0.7692308    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.790000000000000      %  |  Elapsed:   15966.9481949005      
+ sec  |  ETA:   2005165.73470390      sec
+ Acceptance rate  0.7721519    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.800000000000000      %  |  Elapsed:   15978.8036199270      
+ sec  |  ETA:   1981371.64887095      sec
+ Acceptance rate  0.7750000    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.810000000000000      %  |  Elapsed:   15986.0668480382      
+ sec  |  ETA:   1957602.43290977      sec
+ Acceptance rate  0.7777778    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.820000000000000      %  |  Elapsed:   16000.6304884073      
+ sec  |  ETA:   1935295.77053688      sec
+ Acceptance rate  0.7792683    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.830000000000000      %  |  Elapsed:   16012.6894631626      
+ sec  |  ETA:   1913227.00489377      sec
+ Acceptance rate  0.7819277    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.840000000000000      %  |  Elapsed:   16024.8189211776      
+ sec  |  ETA:   1891691.71931426      sec
+ Acceptance rate  0.7845238    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.850000000000000      %  |  Elapsed:   16041.5984146807      
+ sec  |  ETA:   1871205.27390069      sec
+ Acceptance rate  0.7858824    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.860000000000000      %  |  Elapsed:   16052.1847395292      
+ sec  |  ETA:   1850480.92450805      sec
+ Acceptance rate  0.7883721    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:   0.870000000000000      %  |  Elapsed:   16095.8988423115      
+ sec  |  ETA:   1834007.41636590      sec
+ Acceptance rate  0.7896551    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ Progress:   0.880000000000000      %  |  Elapsed:   16183.5259237504      
+ sec  |  ETA:   1822853.51086606      sec
+ Acceptance rate  0.7897727    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:   0.890000000000000      %  |  Elapsed:   16224.2489317493      
+ sec  |  ETA:   1806725.06924232      sec
+ Acceptance rate  0.7910112    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:   0.900000000000000      %  |  Elapsed:   16373.1358252012      
+ sec  |  ETA:   1802864.17808604      sec
+ Acceptance rate  0.7922222    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:   0.910000000000000      %  |  Elapsed:   16585.9130085753      
+ sec  |  ETA:   1806041.89013157      sec
+ Acceptance rate  0.7923077    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.920000000000000      %  |  Elapsed:   16863.5174840412      
+ sec  |  ETA:   1816127.51339000      sec
+ Acceptance rate  0.7858695    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ Progress:   0.930000000000000      %  |  Elapsed:   17096.0600996003      
+ sec  |  ETA:   1821189.97211549      sec
+ Acceptance rate  0.7849463    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:   0.940000000000000      %  |  Elapsed:   17255.3629579146      
+ sec  |  ETA:   1818421.54745853      sec
+ Acceptance rate  0.7861702    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:   0.950000000000000      %  |  Elapsed:   17599.8377055796      
+ sec  |  ETA:   1835014.65761859      sec
+ Acceptance rate  0.7842105    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:   0.960000000000000      %  |  Elapsed:   18095.8084340761      
+ sec  |  ETA:   1866884.23678219      sec
+ Acceptance rate  0.7854167    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:   0.970000000000000      %  |  Elapsed:   18572.7246836906      
+ sec  |  ETA:   1896141.16023286      sec
+ Acceptance rate  0.7865980    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.980000000000000      %  |  Elapsed:   18865.9461954795      
+ sec  |  ETA:   1906230.60436365      sec
+ Acceptance rate  0.7887755    
+ current tolerance  1.000000000000000E-010
+ Progress:   0.990000000000000      %  |  Elapsed:   18944.2519302743      
+ sec  |  ETA:   1894616.54910753      sec
+ Acceptance rate  0.7898990    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.00000000000000      %  |  Elapsed:   18988.5535714203      
+ sec  |  ETA:   1879866.80357061      sec
+ Acceptance rate  0.7920000    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.01000000000000      %  |  Elapsed:   19051.9725752636      
+ sec  |  ETA:   1867281.94576767      sec
+ Acceptance rate  0.7940594    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.02000000000000      %  |  Elapsed:   19104.9423764618      
+ sec  |  ETA:   1853928.62394332      sec
+ Acceptance rate  0.7960784    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.03000000000000      %  |  Elapsed:   19160.2167828744      
+ sec  |  ETA:   1841055.00485542      sec
+ Acceptance rate  0.7980583    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.04000000000000      %  |  Elapsed:   19180.3092316382      
+ sec  |  ETA:   1825080.19381050      sec
+ Acceptance rate  0.8000000    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    1.05000000000000      %  |  Elapsed:   19229.9246764071      
+ sec  |  ETA:   1812191.47307665      sec
+ Acceptance rate  0.8009524    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.06000000000000      %  |  Elapsed:   19304.3440455603      
+ sec  |  ETA:   1801860.18855447      sec
+ Acceptance rate  0.8028302    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.07000000000000      %  |  Elapsed:   19321.2516324040      
+ sec  |  ETA:   1786403.19999414      sec
+ Acceptance rate  0.8046729    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.08000000000000      %  |  Elapsed:   19327.5895821624      
+ sec  |  ETA:   1770264.03839584      sec
+ Acceptance rate  0.8064815    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.09000000000000      %  |  Elapsed:   19334.3422450055      
+ sec  |  ETA:   1754458.52426926      sec
+ Acceptance rate  0.8082569    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.10000000000000      %  |  Elapsed:   19340.5395478397      
+ sec  |  ETA:   1738890.32843758      sec
+ Acceptance rate  0.8090909    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.11000000000000      %  |  Elapsed:   19348.6229323887      
+ sec  |  ETA:   1723770.56016569      sec
+ Acceptance rate  0.8108108    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.12000000000000      %  |  Elapsed:   19354.0556948388      
+ sec  |  ETA:   1708686.63134434      sec
+ Acceptance rate  0.8116071    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.13000000000000      %  |  Elapsed:   19359.9501138721      
+ sec  |  ETA:   1693909.97146773      sec
+ Acceptance rate  0.8132743    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.14000000000000      %  |  Elapsed:   19363.7522924354      
+ sec  |  ETA:   1679211.01020190      sec
+ Acceptance rate  0.8149123    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.15000000000000      %  |  Elapsed:   19365.6963705069      
+ sec  |  ETA:   1664607.90106487      sec
+ Acceptance rate  0.8165218    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.16000000000000      %  |  Elapsed:   19368.4237838886      
+ sec  |  ETA:   1650323.28172375      sec
+ Acceptance rate  0.8181034    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.17000000000000      %  |  Elapsed:   19370.4852528663      
+ sec  |  ETA:   1636226.54490665      sec
+ Acceptance rate  0.8196581    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.18000000000000      %  |  Elapsed:   19373.7830608515      
+ sec  |  ETA:   1622472.23904521      sec
+ Acceptance rate  0.8211864    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.19000000000000      %  |  Elapsed:   19375.8310554705      
+ sec  |  ETA:   1608845.26604289      sec
+ Acceptance rate  0.8226891    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.20000000000000      %  |  Elapsed:   19378.0083959403      
+ sec  |  ETA:   1595456.02459908      sec
+ Acceptance rate  0.8241667    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.21000000000000      %  |  Elapsed:   19380.1251899356      
+ sec  |  ETA:   1582283.11364771      sec
+ Acceptance rate  0.8256198    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.22000000000000      %  |  Elapsed:   19382.0546922942      
+ sec  |  ETA:   1569310.95287281      sec
+ Acceptance rate  0.8270492    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.23000000000000      %  |  Elapsed:   19386.6364457523      
+ sec  |  ETA:   1556762.66808696      sec
+ Acceptance rate  0.8284553    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.24000000000000      %  |  Elapsed:   19391.9546616415      
+ sec  |  ETA:   1544475.35676106      sec
+ Acceptance rate  0.8298387    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.25000000000000      %  |  Elapsed:   19395.7102209954      
+ sec  |  ETA:   1532261.10745863      sec
+ Acceptance rate  0.8312000    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.26000000000000      %  |  Elapsed:   19399.9041883401      
+ sec  |  ETA:   1520275.03139420      sec
+ Acceptance rate  0.8325397    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.27000000000000      %  |  Elapsed:   19402.9423486956      
+ sec  |  ETA:   1508387.79376907      sec
+ Acceptance rate  0.8338583    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.28000000000000      %  |  Elapsed:   19407.3257255962      
+ sec  |  ETA:   1496789.99658660      sec
+ Acceptance rate  0.8351563    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.29000000000000      %  |  Elapsed:   19411.7378860419      
+ sec  |  ETA:   1485374.14475286      sec
+ Acceptance rate  0.8364341    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.30000000000000      %  |  Elapsed:   19417.8456493791      
+ sec  |  ETA:   1474262.58891824      sec
+ Acceptance rate  0.8376923    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.31000000000000      %  |  Elapsed:   19421.0113435546      
+ sec  |  ETA:   1463098.93854611      sec
+ Acceptance rate  0.8389313    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.32000000000000      %  |  Elapsed:   19425.6242974999      
+ sec  |  ETA:   1452212.58005855      sec
+ Acceptance rate  0.8401515    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.33000000000000      %  |  Elapsed:   19432.3866488859      
+ sec  |  ETA:   1441649.31627487      sec
+ Acceptance rate  0.8413534    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.34000000000000      %  |  Elapsed:   19439.2339614341      
+ sec  |  ETA:   1431249.86763813      sec
+ Acceptance rate  0.8425373    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.35000000000000      %  |  Elapsed:   19442.8979477200      
+ sec  |  ETA:   1420771.76484636      sec
+ Acceptance rate  0.8437037    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.36000000000000      %  |  Elapsed:   19445.9081029338      
+ sec  |  ETA:   1410400.27593632      sec
+ Acceptance rate  0.8448529    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.37000000000000      %  |  Elapsed:   19448.6608946377      
+ sec  |  ETA:   1400161.62338549      sec
+ Acceptance rate  0.8459854    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.38000000000000      %  |  Elapsed:   19452.8486899803      
+ sec  |  ETA:   1390173.86797526      sec
+ Acceptance rate  0.8471014    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.39000000000000      %  |  Elapsed:   19455.9232047959      
+ sec  |  ETA:   1380250.78217621      sec
+ Acceptance rate  0.8482015    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.40000000000000      %  |  Elapsed:   19457.8275747790      
+ sec  |  ETA:   1370386.99919515      sec
+ Acceptance rate  0.8492857    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.41000000000000      %  |  Elapsed:   19459.5012924040      
+ sec  |  ETA:   1360646.97334618      sec
+ Acceptance rate  0.8503546    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.42000000000000      %  |  Elapsed:   19461.6140045463      
+ sec  |  ETA:   1351074.58349871      sec
+ Acceptance rate  0.8514084    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.43000000000000      %  |  Elapsed:   19463.2611092159      
+ sec  |  ETA:   1341603.94932546      sec
+ Acceptance rate  0.8524476    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.44000000000000      %  |  Elapsed:   19464.7203768843      
+ sec  |  ETA:   1332251.97246231      sec
+ Acceptance rate  0.8534722    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.45000000000000      %  |  Elapsed:   19466.7214052202      
+ sec  |  ETA:   1323065.78929962      sec
+ Acceptance rate  0.8544828    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.46000000000000      %  |  Elapsed:   19468.9383368376      
+ sec  |  ETA:   1314019.98884382      sec
+ Acceptance rate  0.8554795    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.47000000000000      %  |  Elapsed:   19472.0245090055      
+ sec  |  ETA:   1305155.49311042      sec
+ Acceptance rate  0.8564626    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.48000000000000      %  |  Elapsed:   19474.3176959434      
+ sec  |  ETA:   1296357.95905699      sec
+ Acceptance rate  0.8567567    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.49000000000000      %  |  Elapsed:   19476.1286718950      
+ sec  |  ETA:   1287646.60098549      sec
+ Acceptance rate  0.8577181    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.50000000000000      %  |  Elapsed:   19479.2685047637      
+ sec  |  ETA:   1279138.63181282      sec
+ Acceptance rate  0.8580000    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.51000000000000      %  |  Elapsed:   19484.5294373401      
+ sec  |  ETA:   1270881.65846598      sec
+ Acceptance rate  0.8589404    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.52000000000000      %  |  Elapsed:   19495.4528221593      
+ sec  |  ETA:   1263100.12758306      sec
+ Acceptance rate  0.8598684    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.53000000000000      %  |  Elapsed:   19500.9259985802      
+ sec  |  ETA:   1255069.40070601      sec
+ Acceptance rate  0.8607843    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.54000000000000      %  |  Elapsed:   19509.5835333259      
+ sec  |  ETA:   1247346.49005927      sec
+ Acceptance rate  0.8610390    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.55000000000000      %  |  Elapsed:   19516.9237209253      
+ sec  |  ETA:   1239639.44537103      sec
+ Acceptance rate  0.8619355    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.56000000000000      %  |  Elapsed:   19522.3237136847      
+ sec  |  ETA:   1231908.68357380      sec
+ Acceptance rate  0.8628205    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.57000000000000      %  |  Elapsed:   19527.6244838096      
+ sec  |  ETA:   1224270.11333846      sec
+ Acceptance rate  0.8630573    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.58000000000000      %  |  Elapsed:   19535.5130979489      
+ sec  |  ETA:   1216889.36651907      sec
+ Acceptance rate  0.8639240    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.59000000000000      %  |  Elapsed:   19543.6119842236      
+ sec  |  ETA:   1209614.37444493      sec
+ Acceptance rate  0.8647799    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.60000000000000      %  |  Elapsed:   19552.5036781847      
+ sec  |  ETA:   1202478.97620836      sec
+ Acceptance rate  0.8656250    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.61000000000000      %  |  Elapsed:   19558.2225727541      
+ sec  |  ETA:   1195238.21051757      sec
+ Acceptance rate  0.8658385    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.62000000000000      %  |  Elapsed:   19562.6422162396      
+ sec  |  ETA:   1188007.86495904      sec
+ Acceptance rate  0.8666667    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.63000000000000      %  |  Elapsed:   19567.0790913061      
+ sec  |  ETA:   1180867.22098882      sec
+ Acceptance rate  0.8674847    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.64000000000000      %  |  Elapsed:   19573.5428209670      
+ sec  |  ETA:   1173935.16577458      sec
+ Acceptance rate  0.8676829    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.65000000000000      %  |  Elapsed:   19581.4315435688      
+ sec  |  ETA:   1167171.99533939      sec
+ Acceptance rate  0.8684849    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.66000000000000      %  |  Elapsed:   19588.6084042888      
+ sec  |  ETA:   1160448.04245648      sec
+ Acceptance rate  0.8692771    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.67000000000000      %  |  Elapsed:   19595.1896594462      
+ sec  |  ETA:   1153769.46060680      sec
+ Acceptance rate  0.8700599    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.68000000000000      %  |  Elapsed:   19613.8059758120      
+ sec  |  ETA:   1147874.64496538      sec
+ Acceptance rate  0.8708333    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.69000000000000      %  |  Elapsed:   19631.3878673634      
+ sec  |  ETA:   1141989.19600029      sec
+ Acceptance rate  0.8715976    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.70000000000000      %  |  Elapsed:   19636.7704690346      
+ sec  |  ETA:   1135467.37476829      sec
+ Acceptance rate  0.8717647    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.71000000000000      %  |  Elapsed:   19643.4946227849      
+ sec  |  ETA:   1129098.88097867      sec
+ Acceptance rate  0.8725146    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.72000000000000      %  |  Elapsed:   19653.8105777104      
+ sec  |  ETA:   1123009.59510313      sec
+ Acceptance rate  0.8732558    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.73000000000000      %  |  Elapsed:   19664.4133987047      
+ sec  |  ETA:   1117006.88132411      sec
+ Acceptance rate  0.8734104    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.74000000000000      %  |  Elapsed:   19674.1579542027      
+ sec  |  ETA:   1111024.57504595      sec
+ Acceptance rate  0.8735632    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.75000000000000      %  |  Elapsed:   19682.6719749975      
+ sec  |  ETA:   1105041.44088200      sec
+ Acceptance rate  0.8742857    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.76000000000000      %  |  Elapsed:   19695.9744710342      
+ sec  |  ETA:   1099393.48411046      sec
+ Acceptance rate  0.8750000    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.77000000000000      %  |  Elapsed:   19715.1297067041      
+ sec  |  ETA:   1094134.00626528      sec
+ Acceptance rate  0.8745763    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.78000000000000      %  |  Elapsed:   19739.7646525137      
+ sec  |  ETA:   1089235.77762353      sec
+ Acceptance rate  0.8752809    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.79000000000000      %  |  Elapsed:   19780.5272425467      
+ sec  |  ETA:   1085276.86060922      sec
+ Acceptance rate  0.8759776    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.80000000000000      %  |  Elapsed:   19806.4051709194      
+ sec  |  ETA:   1080549.43765793      sec
+ Acceptance rate  0.8766667    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.81000000000000      %  |  Elapsed:   19836.7263710091      
+ sec  |  ETA:   1076115.00683392      sec
+ Acceptance rate  0.8773481    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.82000000000000      %  |  Elapsed:   19883.3714054159      
+ sec  |  ETA:   1072609.56295810      sec
+ Acceptance rate  0.8780220    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.83000000000000      %  |  Elapsed:   19950.3078483911      
+ sec  |  ETA:   1070230.44889429      sec
+ Acceptance rate  0.8786885    
+ current tolerance  1.000000000000000E-010
+ Progress:    1.84000000000000      %  |  Elapsed:   19993.4219895934      
+ sec  |  ETA:   1066605.59918396      sec
+ Acceptance rate  0.8793478    
+ current tolerance  1.000000000000000E-010
+ not converged
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          0000769C46245330  Unknown               Unknown  Unknown
+generate_markov_c  0000000000408811  Unknown               Unknown  Unknown
+generate_markov_c  0000000000422346  Unknown               Unknown  Unknown
+generate_markov_c  000000000041AFBA  Unknown               Unknown  Unknown
+generate_markov_c  0000000000421941  Unknown               Unknown  Unknown
+generate_markov_c  000000000042AFD9  Unknown               Unknown  Unknown
+generate_markov_c  000000000043364B  Unknown               Unknown  Unknown
+generate_markov_c  0000000000442A8A  Unknown               Unknown  Unknown
+generate_markov_c  0000000000459243  Unknown               Unknown  Unknown
+generate_markov_c  000000000045BEFD  Unknown               Unknown  Unknown
+generate_markov_c  00000000004053BD  Unknown               Unknown  Unknown
+libc.so.6          0000769C4622A1CA  Unknown               Unknown  Unknown
+libc.so.6          0000769C4622A28B  __libc_start_main     Unknown  Unknown
+generate_markov_c  00000000004052D5  Unknown               Unknown  Unknown
+     %  |  Elapsed:   3136.43916131090      
+ sec  |  ETA:   148382.360902018      sec
+ Acceptance rate  0.9859903    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.08000000000000      %  |  Elapsed:   3140.62664331472      
+ sec  |  ETA:   147851.038900662      sec
+ Acceptance rate  0.9860577    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.09000000000000      %  |  Elapsed:   3143.89078303636      
+ sec  |  ETA:   147281.505534493      sec
+ Acceptance rate  0.9861244    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.10000000000000      %  |  Elapsed:   3145.11615639925      
+ sec  |  ETA:   146622.319862613      sec
+ Acceptance rate  0.9861905    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.11000000000000      %  |  Elapsed:   3146.25885598990      
+ sec  |  ETA:   145965.535266754      sec
+ Acceptance rate  0.9862559    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.12000000000000      %  |  Elapsed:   3147.93303625751      
+ sec  |  ETA:   145339.474334380      sec
+ Acceptance rate  0.9863207    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.13000000000000      %  |  Elapsed:   3149.27595441625      
+ sec  |  ETA:   144704.055238835      sec
+ Acceptance rate  0.9863850    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.14000000000000      %  |  Elapsed:   3150.69824318006      
+ sec  |  ETA:   144078.191625047      sec
+ Acceptance rate  0.9864486    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.15000000000000      %  |  Elapsed:   3152.17047255323      
+ sec  |  ETA:   143460.409646202      sec
+ Acceptance rate  0.9865116    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.16000000000000      %  |  Elapsed:   3154.32287297561      
+ sec  |  ETA:   142879.143468488      sec
+ Acceptance rate  0.9865741    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.17000000000000      %  |  Elapsed:   3156.61820567097      
+ sec  |  ETA:   142309.658553360      sec
+ Acceptance rate  0.9866359    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.18000000000000      %  |  Elapsed:   3159.14410895435      
+ sec  |  ETA:   141755.723274273      sec
+ Acceptance rate  0.9866973    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.19000000000000      %  |  Elapsed:   3160.52732945536      
+ sec  |  ETA:   141155.789084032      sec
+ Acceptance rate  0.9867580    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.20000000000000      %  |  Elapsed:   3162.37746838527      
+ sec  |  ETA:   140582.052912763      sec
+ Acceptance rate  0.9868182    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.21000000000000      %  |  Elapsed:   3165.43178581377      
+ sec  |  ETA:   140066.775717072      sec
+ Acceptance rate  0.9868778    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.22000000000000      %  |  Elapsed:   3171.52583318180      
+ sec  |  ETA:   139689.998184017      sec
+ Acceptance rate  0.9869369    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.23000000000000      %  |  Elapsed:   3177.92058047676      
+ sec  |  ETA:   139329.728768257      sec
+ Acceptance rate  0.9865471    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.24000000000000      %  |  Elapsed:   3193.88678583037      
+ sec  |  ETA:   139390.344724454      sec
+ Acceptance rate  0.9866071    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.25000000000000      %  |  Elapsed:   3209.45627467963      
+ sec  |  ETA:   139433.044822193      sec
+ Acceptance rate  0.9866667    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.26000000000000      %  |  Elapsed:   3229.74061593623      
+ sec  |  ETA:   139679.136195401      sec
+ Acceptance rate  0.9867257    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.27000000000000      %  |  Elapsed:   3249.69089142163      
+ sec  |  ETA:   139908.498157989      sec
+ Acceptance rate  0.9867842    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.28000000000000      %  |  Elapsed:   3302.79042899539      
+ sec  |  ETA:   141556.438912908      sec
+ Acceptance rate  0.9868421    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.29000000000000      %  |  Elapsed:   3399.39072794723      
+ sec  |  ETA:   145045.619226080      sec
+ Acceptance rate  0.9868996    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    2.30000000000000      %  |  Elapsed:   3523.16012263251      
+ sec  |  ETA:   149657.714774433      sec
+ Acceptance rate  0.9865217    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ Progress:    2.31000000000000      %  |  Elapsed:   3672.76337500126      
+ sec  |  ETA:   155321.322122889      sec
+ Acceptance rate  0.9857143    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.32000000000000      %  |  Elapsed:   3775.76320331078      
+ sec  |  ETA:   158972.650732499      sec
+ Acceptance rate  0.9857759    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ Progress:    2.33000000000000      %  |  Elapsed:   3877.16299651144      
+ sec  |  ETA:   162524.682347327      sec
+ Acceptance rate  0.9845493    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.34000000000000      %  |  Elapsed:   3931.54500994482      
+ sec  |  ETA:   164083.199004791      sec
+ Acceptance rate  0.9846154    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:    2.35000000000000      %  |  Elapsed:   4309.55203124695      
+ sec  |  ETA:   179075.640787772      sec
+ Acceptance rate  0.9825532    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:    2.36000000000000      %  |  Elapsed:   4937.90016107005      
+ sec  |  ETA:   204295.157511390      sec
+ Acceptance rate  0.9809322    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    2.37000000000000      %  |  Elapsed:   5255.15479868953      
+ sec  |  ETA:   216481.334597493      sec
+ Acceptance rate  0.9805907    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ Progress:    2.38000000000000      %  |  Elapsed:   5479.08172874642      
+ sec  |  ETA:   224734.436285809      sec
+ Acceptance rate  0.9798319    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.39000000000000      %  |  Elapsed:   5563.40263696434      
+ sec  |  ETA:   227214.950374096      sec
+ Acceptance rate  0.9799163    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.40000000000000      %  |  Elapsed:   5585.56436717487      
+ sec  |  ETA:   227146.284265111      sec
+ Acceptance rate  0.9800000    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.41000000000000      %  |  Elapsed:   5597.03762770467      
+ sec  |  ETA:   226645.187588257      sec
+ Acceptance rate  0.9800830    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.42000000000000      %  |  Elapsed:   5603.96378463414      
+ sec  |  ETA:   225964.787646528      sec
+ Acceptance rate  0.9801653    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.43000000000000      %  |  Elapsed:   5609.16662281635      
+ sec  |  ETA:   225220.735550696      sec
+ Acceptance rate  0.9802469    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.44000000000000      %  |  Elapsed:   5617.22544424469      
+ sec  |  ETA:   224596.932106767      sec
+ Acceptance rate  0.9803278    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.45000000000000      %  |  Elapsed:   5624.84993943037      
+ sec  |  ETA:   223960.861874054      sec
+ Acceptance rate  0.9800000    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.46000000000000      %  |  Elapsed:   5633.11824350758      
+ sec  |  ETA:   223355.428240540      sec
+ Acceptance rate  0.9800813    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.47000000000000      %  |  Elapsed:   5649.18647780456      
+ sec  |  ETA:   223062.816672177      sec
+ Acceptance rate  0.9801620    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.48000000000000      %  |  Elapsed:   5662.62812308804      
+ sec  |  ETA:   222669.151033688      sec
+ Acceptance rate  0.9802420    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.49000000000000      %  |  Elapsed:   5669.83534851973      
+ sec  |  ETA:   222034.395515726      sec
+ Acceptance rate  0.9799197    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.50000000000000      %  |  Elapsed:   5675.50822344655      
+ sec  |  ETA:   221344.820714416      sec
+ Acceptance rate  0.9800000    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.51000000000000      %  |  Elapsed:   5683.24274300085      
+ sec  |  ETA:   220740.770922372      sec
+ Acceptance rate  0.9800797    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.52000000000000      %  |  Elapsed:   5689.99139350513      
+ sec  |  ETA:   220103.317872571      sec
+ Acceptance rate  0.9801587    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.53000000000000      %  |  Elapsed:   5694.08250864618      
+ sec  |  ETA:   219368.467240215      sec
+ Acceptance rate  0.9802371    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.54000000000000      %  |  Elapsed:   5700.28676032252      
+ sec  |  ETA:   218720.451835052      sec
+ Acceptance rate  0.9803150    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.55000000000000      %  |  Elapsed:   5706.99960692902      
+ sec  |  ETA:   218096.906547150      sec
+ Acceptance rate  0.9803922    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.56000000000000      %  |  Elapsed:   5715.81056002364      
+ sec  |  ETA:   217558.039440900      sec
+ Acceptance rate  0.9804688    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.57000000000000      %  |  Elapsed:   5728.43738909485      
+ sec  |  ETA:   217167.959073740      sec
+ Acceptance rate  0.9805447    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.58000000000000      %  |  Elapsed:   5746.21945783962      
+ sec  |  ETA:   216975.464954549      sec
+ Acceptance rate  0.9806201    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.59000000000000      %  |  Elapsed:   5757.54969524755      
+ sec  |  ETA:   216541.666337476      sec
+ Acceptance rate  0.9806950    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.60000000000000      %  |  Elapsed:   5762.49157675798      
+ sec  |  ETA:   215871.799837010      sec
+ Acceptance rate  0.9807692    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.61000000000000      %  |  Elapsed:   5765.62403374678      
+ sec  |  ETA:   215139.511358850      sec
+ Acceptance rate  0.9808429    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.62000000000000      %  |  Elapsed:   5772.75086224684      
+ sec  |  ETA:   214561.251513587      sec
+ Acceptance rate  0.9809160    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.63000000000000      %  |  Elapsed:   5785.40422843094      
+ sec  |  ETA:   214191.942860198      sec
+ Acceptance rate  0.9809886    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    2.64000000000000      %  |  Elapsed:   5821.60313421534      
+ sec  |  ETA:   214693.667101214      sec
+ Acceptance rate  0.9806818    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.65000000000000      %  |  Elapsed:   5847.65364116826      
+ sec  |  ETA:   214818.521497257      sec
+ Acceptance rate  0.9807547    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.66000000000000      %  |  Elapsed:   5897.45933822147      
+ sec  |  ETA:   215811.538339277      sec
+ Acceptance rate  0.9808271    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.67000000000000      %  |  Elapsed:   6008.08989273757      
+ sec  |  ETA:   219014.003468220      sec
+ Acceptance rate  0.9808989    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    2.68000000000000      %  |  Elapsed:   6149.73439963651      
+ sec  |  ETA:   223317.967079338      sec
+ Acceptance rate  0.9805970    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    2.69000000000000      %  |  Elapsed:   6332.91546175070      
+ sec  |  ETA:   229091.451146082      sec
+ Acceptance rate  0.9802974    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    2.70000000000000      %  |  Elapsed:   6504.81290788762      
+ sec  |  ETA:   234414.183680543      sec
+ Acceptance rate  0.9800000    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    2.71000000000000      %  |  Elapsed:   6630.82961835596      
+ sec  |  ETA:   238049.230099576      sec
+ Acceptance rate  0.9797048    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.72000000000000      %  |  Elapsed:   6753.38071877509      
+ sec  |  ETA:   241532.675118545      sec
+ Acceptance rate  0.9797794    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.73000000000000      %  |  Elapsed:   6914.75300825224      
+ sec  |  ETA:   246372.902971683      sec
+ Acceptance rate  0.9794872    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.74000000000000      %  |  Elapsed:   6982.01239974122      
+ sec  |  ETA:   247835.958393734      sec
+ Acceptance rate  0.9795620    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.75000000000000      %  |  Elapsed:   6990.90261824895      
+ sec  |  ETA:   247223.738045349      sec
+ Acceptance rate  0.9796364    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.76000000000000      %  |  Elapsed:   7005.61965887249      
+ sec  |  ETA:   246821.179575638      sec
+ Acceptance rate  0.9797102    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.77000000000000      %  |  Elapsed:   7012.94562874036      
+ sec  |  ETA:   246161.986816760      sec
+ Acceptance rate  0.9797834    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.78000000000000      %  |  Elapsed:   7017.71148858056      
+ sec  |  ETA:   245417.953568274      sec
+ Acceptance rate  0.9794964    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.79000000000000      %  |  Elapsed:   7023.32217096561      
+ sec  |  ETA:   244708.655282999      sec
+ Acceptance rate  0.9795699    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.80000000000000      %  |  Elapsed:   7030.66420665174      
+ sec  |  ETA:   244064.486030910      sec
+ Acceptance rate  0.9796429    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.81000000000000      %  |  Elapsed:   7041.23028173344      
+ sec  |  ETA:   243536.359815542      sec
+ Acceptance rate  0.9797153    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.82000000000000      %  |  Elapsed:   7061.01061411109      
+ sec  |  ETA:   243329.436694793      sec
+ Acceptance rate  0.9797872    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.83000000000000      %  |  Elapsed:   7085.11266659619      
+ sec  |  ETA:   243272.225375672      sec
+ Acceptance rate  0.9798586    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.84000000000000      %  |  Elapsed:   7094.86439934978      
+ sec  |  ETA:   242724.304591840      sec
+ Acceptance rate  0.9795775    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.85000000000000      %  |  Elapsed:   7105.02187121124      
+ sec  |  ETA:   242193.991153745      sec
+ Acceptance rate  0.9796491    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.86000000000000      %  |  Elapsed:   7110.62947012088      
+ sec  |  ETA:   241512.778576064      sec
+ Acceptance rate  0.9797203    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.87000000000000      %  |  Elapsed:   7114.22486285632      
+ sec  |  ETA:   240768.174539803      sec
+ Acceptance rate  0.9797909    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.88000000000000      %  |  Elapsed:   7119.19183471613      
+ sec  |  ETA:   240074.969092927      sec
+ Acceptance rate  0.9798611    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.89000000000000      %  |  Elapsed:   7124.44975723699      
+ sec  |  ETA:   239396.303088334      sec
+ Acceptance rate  0.9799308    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.90000000000000      %  |  Elapsed:   7133.41382074193      
+ sec  |  ETA:   238846.373101394      sec
+ Acceptance rate  0.9800000    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.91000000000000      %  |  Elapsed:   7141.92456768593      
+ sec  |  ETA:   238285.036521178      sec
+ Acceptance rate  0.9800687    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.92000000000000      %  |  Elapsed:   7146.49454578850      
+ sec  |  ETA:   237596.469351078      sec
+ Acceptance rate  0.9801370    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.93000000000000      %  |  Elapsed:   7151.94598782714      
+ sec  |  ETA:   236941.773733236      sec
+ Acceptance rate  0.9802048    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.94000000000000      %  |  Elapsed:   7156.57576716854      
+ sec  |  ETA:   236264.368694347      sec
+ Acceptance rate  0.9802721    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.95000000000000      %  |  Elapsed:   7160.91316040885      
+ sec  |  ETA:   235581.905836501      sec
+ Acceptance rate  0.9803390    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.96000000000000      %  |  Elapsed:   7167.48639419279      
+ sec  |  ETA:   234977.324220429      sec
+ Acceptance rate  0.9804054    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.97000000000000      %  |  Elapsed:   7175.66317383084      
+ sec  |  ETA:   234429.157493874      sec
+ Acceptance rate  0.9804714    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.98000000000000      %  |  Elapsed:   7181.04301518784      
+ sec  |  ETA:   233793.554809907      sec
+ Acceptance rate  0.9805369    
+ current tolerance  1.000000000000000E-010
+ Progress:    2.99000000000000      %  |  Elapsed:   7185.05722971563      
+ sec  |  ETA:   233117.860152078      sec
+ Acceptance rate  0.9806020    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.00000000000000      %  |  Elapsed:   7189.65765356505      
+ sec  |  ETA:   232465.597465270      sec
+ Acceptance rate  0.9806666    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.01000000000000      %  |  Elapsed:   7194.59522829112      
+ sec  |  ETA:   231828.502057128      sec
+ Acceptance rate  0.9807309    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.02000000000000      %  |  Elapsed:   7200.59565397305      
+ sec  |  ETA:   231229.724014009      sec
+ Acceptance rate  0.9804636    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.03000000000000      %  |  Elapsed:   7205.64980804501      
+ sec  |  ETA:   230604.574879909      sec
+ Acceptance rate  0.9805281    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.04000000000000      %  |  Elapsed:   7210.98662572866      
+ sec  |  ETA:   229992.520799556      sec
+ Acceptance rate  0.9802632    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.05000000000000      %  |  Elapsed:   7218.97190574370      
+ sec  |  ETA:   229468.631561263      sec
+ Acceptance rate  0.9803278    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.06000000000000      %  |  Elapsed:   7226.39335022727      
+ sec  |  ETA:   228930.252082036      sec
+ Acceptance rate  0.9803922    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.07000000000000      %  |  Elapsed:   7231.81373162684      
+ sec  |  ETA:   228332.151467944      sec
+ Acceptance rate  0.9804561    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.08000000000000      %  |  Elapsed:   7238.66474105604      
+ sec  |  ETA:   227782.917760763      sec
+ Acceptance rate  0.9805195    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.09000000000000      %  |  Elapsed:   7246.20758880535      
+ sec  |  ETA:   227258.892372533      sec
+ Acceptance rate  0.9805825    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.10000000000000      %  |  Elapsed:   7259.78037609765      
+ sec  |  ETA:   226926.683368988      sec
+ Acceptance rate  0.9806452    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.11000000000000      %  |  Elapsed:   7275.34941246081      
+ sec  |  ETA:   226658.715296890      sec
+ Acceptance rate  0.9807074    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.12000000000000      %  |  Elapsed:   7280.19922283711      
+ sec  |  ETA:   226059.519457839      sec
+ Acceptance rate  0.9807692    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.13000000000000      %  |  Elapsed:   7289.36407024809      
+ sec  |  ETA:   225597.666928094      sec
+ Acceptance rate  0.9808307    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.14000000000000      %  |  Elapsed:   7298.90188736818      
+ sec  |  ETA:   225150.202805886      sec
+ Acceptance rate  0.9808917    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.15000000000000      %  |  Elapsed:   7307.39958746452      
+ sec  |  ETA:   224673.539697123      sec
+ Acceptance rate  0.9806349    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.16000000000000      %  |  Elapsed:   7313.12440608628      
+ sec  |  ETA:   224114.863128290      sec
+ Acceptance rate  0.9806962    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.17000000000000      %  |  Elapsed:   7327.59492525272      
+ sec  |  ETA:   223826.819120574      sec
+ Acceptance rate  0.9807571    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.18000000000000      %  |  Elapsed:   7343.62791756331      
+ sec  |  ETA:   223588.067603295      sec
+ Acceptance rate  0.9805031    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.19000000000000      %  |  Elapsed:   7351.64426751807      
+ sec  |  ETA:   223107.423679757      sec
+ Acceptance rate  0.9802508    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.20000000000000      %  |  Elapsed:   7361.41445717681      
+ sec  |  ETA:   222682.787329599      sec
+ Acceptance rate  0.9803125    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.21000000000000      %  |  Elapsed:   7365.92976935464      
+ sec  |  ETA:   222102.287344497      sec
+ Acceptance rate  0.9803739    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.22000000000000      %  |  Elapsed:   7372.95357030467      
+ sec  |  ETA:   221600.759793194      sec
+ Acceptance rate  0.9804348    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.23000000000000      %  |  Elapsed:   7378.87454011338      
+ sec  |  ETA:   221069.253636771      sec
+ Acceptance rate  0.9804953    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.24000000000000      %  |  Elapsed:   7384.25710756099      
+ sec  |  ETA:   220524.912878889      sec
+ Acceptance rate  0.9805555    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.25000000000000      %  |  Elapsed:   7388.33454360627      
+ sec  |  ETA:   219945.036028894      sec
+ Acceptance rate  0.9806154    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.26000000000000      %  |  Elapsed:   7393.91879827692      
+ sec  |  ETA:   219413.406302242      sec
+ Acceptance rate  0.9806749    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.27000000000000      %  |  Elapsed:   7401.23499217979      
+ sec  |  ETA:   218936.226542370      sec
+ Acceptance rate  0.9807339    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.28000000000000      %  |  Elapsed:   7420.07559474348      
+ sec  |  ETA:   218801.741318168      sec
+ Acceptance rate  0.9807927    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.29000000000000      %  |  Elapsed:   7444.90355858719      
+ sec  |  ETA:   218843.958404549      sec
+ Acceptance rate  0.9808511    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.30000000000000      %  |  Elapsed:   7464.30091367941      
+ sec  |  ETA:   218726.635864485      sec
+ Acceptance rate  0.9809091    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.31000000000000      %  |  Elapsed:   7479.07919120905      
+ sec  |  ETA:   218474.974923868      sec
+ Acceptance rate  0.9806647    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.32000000000000      %  |  Elapsed:   7500.57219292433      
+ sec  |  ETA:   218420.276991543      sec
+ Acceptance rate  0.9804217    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.33000000000000      %  |  Elapsed:   7514.97717363341      
+ sec  |  ETA:   218160.013025568      sec
+ Acceptance rate  0.9804805    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.34000000000000      %  |  Elapsed:   7534.06570507213      
+ sec  |  ETA:   218036.763788106      sec
+ Acceptance rate  0.9805389    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.35000000000000      %  |  Elapsed:   7567.94456144120      
+ sec  |  ETA:   218340.848317400      sec
+ Acceptance rate  0.9805970    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.36000000000000      %  |  Elapsed:   7614.76806447119      
+ sec  |  ETA:   219015.233854314      sec
+ Acceptance rate  0.9806548    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.37000000000000      %  |  Elapsed:   7711.90098215826      
+ sec  |  ETA:   221127.890773280      sec
+ Acceptance rate  0.9807122    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:    3.38000000000000      %  |  Elapsed:   8027.90159106092      
+ sec  |  ETA:   229483.979801274      sec
+ Acceptance rate  0.9795858    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:    3.39000000000000      %  |  Elapsed:   8404.06540316739      
+ sec  |  ETA:   239503.468613570      sec
+ Acceptance rate  0.9772862    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:    3.40000000000000      %  |  Elapsed:   8822.23459510971      
+ sec  |  ETA:   250655.253496352      sec
+ Acceptance rate  0.9744118    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:    3.41000000000000      %  |  Elapsed:   9198.09233387606      
+ sec  |  ETA:   260540.685785657      sec
+ Acceptance rate  0.9715543    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:    3.42000000000000      %  |  Elapsed:   9575.60585872736      
+ sec  |  ETA:   270412.869542657      sec
+ Acceptance rate  0.9690058    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:    3.43000000000000      %  |  Elapsed:   9941.91223934153      
+ sec  |  ETA:   279909.756546126      sec
+ Acceptance rate  0.9670554    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.44000000000000      %  |  Elapsed:   10067.0718825674      
+ sec  |  ETA:   282580.366564158      sec
+ Acceptance rate  0.9671512    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    3.45000000000000      %  |  Elapsed:   10142.6027014547      
+ sec  |  ETA:   283845.881398680      sec
+ Acceptance rate  0.9669565    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.46000000000000      %  |  Elapsed:   10226.2212485655      
+ sec  |  ETA:   285329.306166622      sec
+ Acceptance rate  0.9670520    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.47000000000000      %  |  Elapsed:   10298.3088447750      
+ sec  |  ETA:   286482.925874965      sec
+ Acceptance rate  0.9671470    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.48000000000000      %  |  Elapsed:   10356.3376499119      
+ sec  |  ETA:   287239.571830314      sec
+ Acceptance rate  0.9672414    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.49000000000000      %  |  Elapsed:   10460.1416984468      
+ sec  |  ETA:   289257.385477680      sec
+ Acceptance rate  0.9670487    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    3.50000000000000      %  |  Elapsed:   10506.4462118030      
+ sec  |  ETA:   289677.731268283      sec
+ Acceptance rate  0.9668571    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.51000000000000      %  |  Elapsed:   10535.8024199270      
+ sec  |  ETA:   289629.508689104      sec
+ Acceptance rate  0.9666666    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    3.52000000000000      %  |  Elapsed:   10665.0202316241      
+ sec  |  ETA:   292318.509075880      sec
+ Acceptance rate  0.9661932    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.53000000000000      %  |  Elapsed:   10710.9689067462      
+ sec  |  ETA:   292715.912304196      sec
+ Acceptance rate  0.9662889    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.54000000000000      %  |  Elapsed:   10835.9343507979      
+ sec  |  ETA:   295263.906067222      sec
+ Acceptance rate  0.9663842    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.55000000000000      %  |  Elapsed:   10943.0034192819      
+ sec  |  ETA:   297310.614025279      sec
+ Acceptance rate  0.9664789    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    3.56000000000000      %  |  Elapsed:   11004.3785795141      
+ sec  |  ETA:   298107.379272006      sec
+ Acceptance rate  0.9660112    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.57000000000000      %  |  Elapsed:   11320.0600471883      
+ sec  |  ETA:   305768.456680776      sec
+ Acceptance rate  0.9658263    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    3.58000000000000      %  |  Elapsed:   11433.2002873432      
+ sec  |  ETA:   307929.936230624      sec
+ Acceptance rate  0.9656425    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.59000000000000      %  |  Elapsed:   11499.4800933176      
+ sec  |  ETA:   308820.299664832      sec
+ Acceptance rate  0.9657382    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.60000000000000      %  |  Elapsed:   11523.8804471756      
+ sec  |  ETA:   308583.909752146      sec
+ Acceptance rate  0.9658333    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.61000000000000      %  |  Elapsed:   11542.5098024926      
+ sec  |  ETA:   308194.603839961      sec
+ Acceptance rate  0.9656510    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.62000000000000      %  |  Elapsed:   11595.7786481262      
+ sec  |  ETA:   308729.598371934      sec
+ Acceptance rate  0.9657459    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.63000000000000      %  |  Elapsed:   11658.8411538096      
+ sec  |  ETA:   309521.355920834      sec
+ Acceptance rate  0.9658402    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.64000000000000      %  |  Elapsed:   11701.6198858144      
+ sec  |  ETA:   309771.453900295      sec
+ Acceptance rate  0.9659340    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.65000000000000      %  |  Elapsed:   11711.0170429533      
+ sec  |  ETA:   309138.764955767      sec
+ Acceptance rate  0.9660274    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.66000000000000      %  |  Elapsed:   11717.4203167995      
+ sec  |  ETA:   308430.675770620      sec
+ Acceptance rate  0.9661202    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.67000000000000      %  |  Elapsed:   11729.3220598064      
+ sec  |  ETA:   307870.734065710      sec
+ Acceptance rate  0.9662125    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.68000000000000      %  |  Elapsed:   11748.1916126991      
+ sec  |  ETA:   307496.145688906      sec
+ Acceptance rate  0.9663044    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.69000000000000      %  |  Elapsed:   11763.0378461583      
+ sec  |  ETA:   307018.475599865      sec
+ Acceptance rate  0.9663957    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.70000000000000      %  |  Elapsed:   11773.3711057664      
+ sec  |  ETA:   306425.847969001      sec
+ Acceptance rate  0.9664865    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.71000000000000      %  |  Elapsed:   11784.3226977119      
+ sec  |  ETA:   305852.407698835      sec
+ Acceptance rate  0.9665768    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.72000000000000      %  |  Elapsed:   11788.9987230333      
+ sec  |  ETA:   305119.569100444      sec
+ Acceptance rate  0.9666666    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.73000000000000      %  |  Elapsed:   11794.5795008785      
+ sec  |  ETA:   304413.986206319      sec
+ Acceptance rate  0.9667560    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.74000000000000      %  |  Elapsed:   11801.6272854742      
+ sec  |  ETA:   303749.904411697      sec
+ Acceptance rate  0.9668449    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.75000000000000      %  |  Elapsed:   11812.0975658284      
+ sec  |  ETA:   303177.170856261      sec
+ Acceptance rate  0.9669333    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.76000000000000      %  |  Elapsed:   11834.0502201926      
+ sec  |  ETA:   302901.327976420      sec
+ Acceptance rate  0.9667553    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.77000000000000      %  |  Elapsed:   11847.2833492390      
+ sec  |  ETA:   302404.264375934      sec
+ Acceptance rate  0.9665782    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.78000000000000      %  |  Elapsed:   11903.0031083822      
+ sec  |  ETA:   302991.259018132      sec
+ Acceptance rate  0.9666666    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.79000000000000      %  |  Elapsed:   11917.5766825101      
+ sec  |  ETA:   302530.356892954      sec
+ Acceptance rate  0.9667546    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.80000000000000      %  |  Elapsed:   11932.0320208299      
+ sec  |  ETA:   302068.810632587      sec
+ Acceptance rate  0.9668421    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.81000000000000      %  |  Elapsed:   11957.9521828999      
+ sec  |  ETA:   301899.060491639      sec
+ Acceptance rate  0.9669291    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.82000000000000      %  |  Elapsed:   11993.4058273602      
+ sec  |  ETA:   301970.097506677      sec
+ Acceptance rate  0.9670157    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.83000000000000      %  |  Elapsed:   12036.5820392286      
+ sec  |  ETA:   302234.489481101      sec
+ Acceptance rate  0.9671018    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.84000000000000      %  |  Elapsed:   12068.7727608548      
+ sec  |  ETA:   302222.184553072      sec
+ Acceptance rate  0.9671875    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.85000000000000      %  |  Elapsed:   12088.0545018846      
+ sec  |  ETA:   301887.387105508      sec
+ Acceptance rate  0.9672727    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.86000000000000      %  |  Elapsed:   12097.8357653648      
+ sec  |  ETA:   301317.598570511      sec
+ Acceptance rate  0.9673575    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.87000000000000      %  |  Elapsed:   12157.3472093078      
+ sec  |  ETA:   301985.991532497      sec
+ Acceptance rate  0.9674419    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.88000000000000      %  |  Elapsed:   12193.3174948744      
+ sec  |  ETA:   302067.442682300      sec
+ Acceptance rate  0.9675258    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.89000000000000      %  |  Elapsed:   12201.6810473537      
+ sec  |  ETA:   301466.212200812      sec
+ Acceptance rate  0.9676092    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.90000000000000      %  |  Elapsed:   12207.2666193943      
+ sec  |  ETA:   300799.569775331      sec
+ Acceptance rate  0.9676923    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.91000000000000      %  |  Elapsed:   12211.4280209497      
+ sec  |  ETA:   300101.309087738      sec
+ Acceptance rate  0.9675192    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.92000000000000      %  |  Elapsed:   12220.2019957569      
+ sec  |  ETA:   299519.644834777      sec
+ Acceptance rate  0.9676020    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.93000000000000      %  |  Elapsed:   12225.2451614519      
+ sec  |  ETA:   298849.695333507      sec
+ Acceptance rate  0.9676845    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.94000000000000      %  |  Elapsed:   12229.6424524442      
+ sec  |  ETA:   298167.374107053      sec
+ Acceptance rate  0.9677665    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.95000000000000      %  |  Elapsed:   12235.2084497628      
+ sec  |  ETA:   297516.904202459      sec
+ Acceptance rate  0.9675949    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.96000000000000      %  |  Elapsed:   12237.8362194479      
+ sec  |  ETA:   296798.431948428      sec
+ Acceptance rate  0.9676768    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.97000000000000      %  |  Elapsed:   12242.1579381418      
+ sec  |  ETA:   296124.540755607      sec
+ Acceptance rate  0.9677582    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.98000000000000      %  |  Elapsed:   12245.4816181450      
+ sec  |  ETA:   295429.935923187      sec
+ Acceptance rate  0.9678392    
+ current tolerance  1.000000000000000E-010
+ Progress:    3.99000000000000      %  |  Elapsed:   12251.9800093591      
+ sec  |  ETA:   294815.188145004      sec
+ Acceptance rate  0.9679198    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.00000000000000      %  |  Elapsed:   12259.1901461510      
+ sec  |  ETA:   294220.563507624      sec
+ Acceptance rate  0.9680000    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.01000000000000      %  |  Elapsed:   12270.0734100784      
+ sec  |  ETA:   293716.794671678      sec
+ Acceptance rate  0.9680798    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.02000000000000      %  |  Elapsed:   12283.2532305580      
+ sec  |  ETA:   293270.309718646      sec
+ Acceptance rate  0.9681592    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.03000000000000      %  |  Elapsed:   12297.2232852196      
+ sec  |  ETA:   292844.793717749      sec
+ Acceptance rate  0.9679901    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.04000000000000      %  |  Elapsed:   12313.4250139070      
+ sec  |  ETA:   292474.322855079      sec
+ Acceptance rate  0.9680693    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.05000000000000      %  |  Elapsed:   12327.9171217014      
+ sec  |  ETA:   292065.098228951      sec
+ Acceptance rate  0.9681482    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.06000000000000      %  |  Elapsed:   12361.5521387577      
+ sec  |  ETA:   292110.175416850      sec
+ Acceptance rate  0.9682266    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.07000000000000      %  |  Elapsed:   12376.9621753774      
+ sec  |  ETA:   291725.302575910      sec
+ Acceptance rate  0.9683047    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.08000000000000      %  |  Elapsed:   12390.7247138366      
+ sec  |  ETA:   291303.508468432      sec
+ Acceptance rate  0.9683824    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.09000000000000      %  |  Elapsed:   12442.5645267160      
+ sec  |  ETA:   291776.617055583      sec
+ Acceptance rate  0.9684597    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.10000000000000      %  |  Elapsed:   12540.7750005955      
+ sec  |  ETA:   293331.785989538      sec
+ Acceptance rate  0.9682927    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ Progress:    4.11000000000000      %  |  Elapsed:   12760.3541437059      
+ sec  |  ETA:   297710.549596097      sec
+ Acceptance rate  0.9676399    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    4.12000000000000      %  |  Elapsed:   12963.0962382720      
+ sec  |  ETA:   301675.161972214      sec
+ Acceptance rate  0.9674757    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ not converged
+ Progress:    4.13000000000000      %  |  Elapsed:   13249.0762772884      
+ sec  |  ETA:   307551.802107418      sec
+ Acceptance rate  0.9665859    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.14000000000000      %  |  Elapsed:   13292.4809799937      
+ sec  |  ETA:   307781.938826618      sec
+ Acceptance rate  0.9666666    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.15000000000000      %  |  Elapsed:   13298.7720023019      
+ sec  |  ETA:   307153.565402563      sec
+ Acceptance rate  0.9667470    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.16000000000000      %  |  Elapsed:   13305.3188297604      
+ sec  |  ETA:   306534.076116404      sec
+ Acceptance rate  0.9668269    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.17000000000000      %  |  Elapsed:   13310.5146741050      
+ sec  |  ETA:   305886.479908748      sec
+ Acceptance rate  0.9666666    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.18000000000000      %  |  Elapsed:   13317.4021912171      
+ sec  |  ETA:   305280.736354646      sec
+ Acceptance rate  0.9665072    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.19000000000000      %  |  Elapsed:   13327.3858566079      
+ sec  |  ETA:   304748.648907304      sec
+ Acceptance rate  0.9665871    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.20000000000000      %  |  Elapsed:   13334.9836956149      
+ sec  |  ETA:   304164.628104739      sec
+ Acceptance rate  0.9666666    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.21000000000000      %  |  Elapsed:   13348.0056934452      
+ sec  |  ETA:   303706.761371762      sec
+ Acceptance rate  0.9667459    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.22000000000000      %  |  Elapsed:   13355.5126829678      
+ sec  |  ETA:   303125.830515322      sec
+ Acceptance rate  0.9665877    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.23000000000000      %  |  Elapsed:   13363.1086993790      
+ sec  |  ETA:   302549.626510527      sec
+ Acceptance rate  0.9666666    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.24000000000000      %  |  Elapsed:   13371.3910989668      
+ sec  |  ETA:   301991.606518175      sec
+ Acceptance rate  0.9667453    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.25000000000000      %  |  Elapsed:   13375.6032028473      
+ sec  |  ETA:   301344.472158266      sec
+ Acceptance rate  0.9668235    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.26000000000000      %  |  Elapsed:   13379.8981615293      
+ sec  |  ETA:   300702.218306295      sec
+ Acceptance rate  0.9669014    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.27000000000000      %  |  Elapsed:   13385.6654794505      
+ sec  |  ETA:   300095.961673957      sec
+ Acceptance rate  0.9669789    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.28000000000000      %  |  Elapsed:   13390.3034909747      
+ sec  |  ETA:   299467.254709369      sec
+ Acceptance rate  0.9668224    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.29000000000000      %  |  Elapsed:   13394.8521228910      
+ sec  |  ETA:   298839.463096013      sec
+ Acceptance rate  0.9668998    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.30000000000000      %  |  Elapsed:   13401.6496807765      
+ sec  |  ETA:   298264.621965189      sec
+ Acceptance rate  0.9669768    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.31000000000000      %  |  Elapsed:   13407.3658108194      
+ sec  |  ETA:   297668.407062021      sec
+ Acceptance rate  0.9670534    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.32000000000000      %  |  Elapsed:   13450.4492354367      
+ sec  |  ETA:   297902.542325599      sec
+ Acceptance rate  0.9671296    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    4.33000000000000      %  |  Elapsed:   13514.8933931359      
+ sec  |  ETA:   298607.355870972      sec
+ Acceptance rate  0.9669746    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.34000000000000      %  |  Elapsed:   13548.5164386744      
+ sec  |  ETA:   298629.281687464      sec
+ Acceptance rate  0.9668203    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.35000000000000      %  |  Elapsed:   13588.1833118289      
+ sec  |  ETA:   298783.846845157      sec
+ Acceptance rate  0.9668965    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.36000000000000      %  |  Elapsed:   13619.1427020512      
+ sec  |  ETA:   298746.515601876      sec
+ Acceptance rate  0.9669725    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.37000000000000      %  |  Elapsed:   13649.4427362015      
+ sec  |  ETA:   298694.784636830      sec
+ Acceptance rate  0.9670480    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.38000000000000      %  |  Elapsed:   13705.3021504800      
+ sec  |  ETA:   299201.139641300      sec
+ Acceptance rate  0.9668950    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.39000000000000      %  |  Elapsed:   13744.0429165775      
+ sec  |  ETA:   299332.105524824      sec
+ Acceptance rate  0.9669704    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.40000000000000      %  |  Elapsed:   13775.5729367447      
+ sec  |  ETA:   299305.630171089      sec
+ Acceptance rate  0.9670454    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.41000000000000      %  |  Elapsed:   13781.9700978661      
+ sec  |  ETA:   298734.358651933      sec
+ Acceptance rate  0.9671202    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.42000000000000      %  |  Elapsed:   13788.4199765858      
+ sec  |  ETA:   298166.783113590      sec
+ Acceptance rate  0.9671946    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.43000000000000      %  |  Elapsed:   13793.9962450010      
+ sec  |  ETA:   297582.894161342      sec
+ Acceptance rate  0.9672686    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.44000000000000      %  |  Elapsed:   13803.1115585249      
+ sec  |  ETA:   297077.779399243      sec
+ Acceptance rate  0.9673423    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.45000000000000      %  |  Elapsed:   13809.1789995481      
+ sec  |  ETA:   296509.450203780      sec
+ Acceptance rate  0.9674158    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.46000000000000      %  |  Elapsed:   13815.1624751657      
+ sec  |  ETA:   295941.843694468      sec
+ Acceptance rate  0.9674888    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.47000000000000      %  |  Elapsed:   13818.5980713477      
+ sec  |  ETA:   295322.298379384      sec
+ Acceptance rate  0.9675615    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.48000000000000      %  |  Elapsed:   13822.1902218172      
+ sec  |  ETA:   294708.841515175      sec
+ Acceptance rate  0.9674107    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.49000000000000      %  |  Elapsed:   13828.6902435303      
+ sec  |  ETA:   294159.956605697      sec
+ Acceptance rate  0.9674833    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.50000000000000      %  |  Elapsed:   13837.6259414931      
+ sec  |  ETA:   293665.172758353      sec
+ Acceptance rate  0.9675556    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.51000000000000      %  |  Elapsed:   13842.2394377179      
+ sec  |  ETA:   293081.029691283      sec
+ Acceptance rate  0.9676275    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.52000000000000      %  |  Elapsed:   13846.7927708663      
+ sec  |  ETA:   292498.180035910      sec
+ Acceptance rate  0.9676991    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.53000000000000      %  |  Elapsed:   13852.5977164477      
+ sec  |  ETA:   291944.261366282      sec
+ Acceptance rate  0.9677704    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.54000000000000      %  |  Elapsed:   13857.3464143104      
+ sec  |  ETA:   291370.548174024      sec
+ Acceptance rate  0.9678414    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.55000000000000      %  |  Elapsed:   13864.0244411733      
+ sec  |  ETA:   290839.809430767      sec
+ Acceptance rate  0.9679121    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.56000000000000      %  |  Elapsed:   13871.8198770618      
+ sec  |  ETA:   290334.756374293      sec
+ Acceptance rate  0.9679825    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.57000000000000      %  |  Elapsed:   13886.6246257774      
+ sec  |  ETA:   289978.246835434      sec
+ Acceptance rate  0.9678337    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.58000000000000      %  |  Elapsed:   13893.8806584328      
+ sec  |  ETA:   289465.959045341      sec
+ Acceptance rate  0.9679039    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.59000000000000      %  |  Elapsed:   13899.8452837120      
+ sec  |  ETA:   288929.027999774      sec
+ Acceptance rate  0.9679738    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.60000000000000      %  |  Elapsed:   13904.4747099795      
+ sec  |  ETA:   288366.714637401      sec
+ Acceptance rate  0.9680435    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.61000000000000      %  |  Elapsed:   13909.8147076529      
+ sec  |  ETA:   287821.523853148      sec
+ Acceptance rate  0.9681128    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.62000000000000      %  |  Elapsed:   13917.8053703501      
+ sec  |  ETA:   287333.393122077      sec
+ Acceptance rate  0.9681818    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.63000000000000      %  |  Elapsed:   13943.8150236593      
+ sec  |  ETA:   287218.496502459      sec
+ Acceptance rate  0.9682505    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.64000000000000      %  |  Elapsed:   13998.6308065581      
+ sec  |  ETA:   287695.998645124      sec
+ Acceptance rate  0.9683189    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.65000000000000      %  |  Elapsed:   14021.7113247509      
+ sec  |  ETA:   287520.467702150      sec
+ Acceptance rate  0.9683871    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.66000000000000      %  |  Elapsed:   14041.6359791385      
+ sec  |  ETA:   287281.024517397      sec
+ Acceptance rate  0.9684550    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.67000000000000      %  |  Elapsed:   14052.8682198070      
+ sec  |  ETA:   286865.080812464      sec
+ Acceptance rate  0.9685225    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.68000000000000      %  |  Elapsed:   14058.9493880263      
+ sec  |  ETA:   286345.952065526      sec
+ Acceptance rate  0.9685897    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.69000000000000      %  |  Elapsed:   14061.8772593397      
+ sec  |  ETA:   285764.929976048      sec
+ Acceptance rate  0.9686567    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.70000000000000      %  |  Elapsed:   14064.1100787062      
+ sec  |  ETA:   285172.274574617      sec
+ Acceptance rate  0.9687234    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.71000000000000      %  |  Elapsed:   14065.6051976259      
+ sec  |  ETA:   284567.201546024      sec
+ Acceptance rate  0.9687898    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.72000000000000      %  |  Elapsed:   14066.9343426444      
+ sec  |  ETA:   283961.335628635      sec
+ Acceptance rate  0.9688559    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.73000000000000      %  |  Elapsed:   14069.6538670659      
+ sec  |  ETA:   283386.030426082      sec
+ Acceptance rate  0.9689218    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.74000000000000      %  |  Elapsed:   14072.0089249955      
+ sec  |  ETA:   282805.816496851      sec
+ Acceptance rate  0.9689873    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.75000000000000      %  |  Elapsed:   14074.0652475818      
+ sec  |  ETA:   282222.045227825      sec
+ Acceptance rate  0.9690526    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.76000000000000      %  |  Elapsed:   14076.2248921574      
+ sec  |  ETA:   281642.785447283      sec
+ Acceptance rate  0.9691176    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.77000000000000      %  |  Elapsed:   14077.4174798732      
+ sec  |  ETA:   281046.638701954      sec
+ Acceptance rate  0.9691824    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.78000000000000      %  |  Elapsed:   14078.5735012325      
+ sec  |  ETA:   280452.252884386      sec
+ Acceptance rate  0.9692469    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.79000000000000      %  |  Elapsed:   14080.5535811596      
+ sec  |  ETA:   279876.723687307      sec
+ Acceptance rate  0.9693111    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.80000000000000      %  |  Elapsed:   14082.4502845113      
+ sec  |  ETA:   279301.930642808      sec
+ Acceptance rate  0.9691667    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.81000000000000      %  |  Elapsed:   14084.1784674532      
+ sec  |  ETA:   278726.184681262      sec
+ Acceptance rate  0.9692308    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.82000000000000      %  |  Elapsed:   14086.3657225720      
+ sec  |  ETA:   278161.885783070      sec
+ Acceptance rate  0.9692946    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.83000000000000      %  |  Elapsed:   14088.2986835474      
+ sec  |  ETA:   277594.903874370      sec
+ Acceptance rate  0.9693582    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.84000000000000      %  |  Elapsed:   14089.4081083944      
+ sec  |  ETA:   277014.065205539      sec
+ Acceptance rate  0.9694215    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.85000000000000      %  |  Elapsed:   14091.3017254185      
+ sec  |  ETA:   276451.001891459      sec
+ Acceptance rate  0.9694845    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.86000000000000      %  |  Elapsed:   14092.6914442321      
+ sec  |  ETA:   275880.383539968      sec
+ Acceptance rate  0.9695473    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.87000000000000      %  |  Elapsed:   14095.4904232952      
+ sec  |  ETA:   275339.631204943      sec
+ Acceptance rate  0.9696099    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.88000000000000      %  |  Elapsed:   14097.4874007450      
+ sec  |  ETA:   274785.451139112      sec
+ Acceptance rate  0.9694672    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.89000000000000      %  |  Elapsed:   14100.7976958212      
+ sec  |  ETA:   274259.073384366      sec
+ Acceptance rate  0.9695296    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.90000000000000      %  |  Elapsed:   14105.8286341107      
+ sec  |  ETA:   273768.225123251      sec
+ Acceptance rate  0.9695919    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.91000000000000      %  |  Elapsed:   14114.9001532497      
+ sec  |  ETA:   273357.608059576      sec
+ Acceptance rate  0.9696538    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.92000000000000      %  |  Elapsed:   14124.5808627156      
+ sec  |  ETA:   272960.396021748      sec
+ Acceptance rate  0.9697155    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.93000000000000      %  |  Elapsed:   14136.1564055926      
+ sec  |  ETA:   272601.296040504      sec
+ Acceptance rate  0.9697769    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.94000000000000      %  |  Elapsed:   14145.1159728367      
+ sec  |  ETA:   272193.264044101      sec
+ Acceptance rate  0.9698381    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.95000000000000      %  |  Elapsed:   14153.0785393089      
+ sec  |  ETA:   271767.700032587      sec
+ Acceptance rate  0.9698990    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.96000000000000      %  |  Elapsed:   14159.3367655722      
+ sec  |  ETA:   271311.162540319      sec
+ Acceptance rate  0.9699597    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.97000000000000      %  |  Elapsed:   14165.8638339438      
+ sec  |  ETA:   270861.577492894      sec
+ Acceptance rate  0.9700201    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.98000000000000      %  |  Elapsed:   14173.4139421710      
+ sec  |  ETA:   270433.291723914      sec
+ Acceptance rate  0.9700803    
+ current tolerance  1.000000000000000E-010
+ Progress:    4.99000000000000      %  |  Elapsed:   14176.2873926987      
+ sec  |  ETA:   269917.648332726      sec
+ Acceptance rate  0.9701403    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.00000000000000      %  |  Elapsed:   14179.7701254427      
+ sec  |  ETA:   269415.632383410      sec
+ Acceptance rate  0.9702000    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.01000000000000      %  |  Elapsed:   14187.7478510919      
+ sec  |  ETA:   269000.832011022      sec
+ Acceptance rate  0.9702595    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.02000000000000      %  |  Elapsed:   14198.5776301660      
+ sec  |  ETA:   268641.614205809      sec
+ Acceptance rate  0.9703187    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.03000000000000      %  |  Elapsed:   14212.7911300228      
+ sec  |  ETA:   268347.668711386      sec
+ Acceptance rate  0.9703777    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.04000000000000      %  |  Elapsed:   14236.9775370101      
+ sec  |  ETA:   268242.735498905      sec
+ Acceptance rate  0.9704365    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.05000000000000      %  |  Elapsed:   14265.8978345413      
+ sec  |  ETA:   268227.128592019      sec
+ Acceptance rate  0.9704950    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.06000000000000      %  |  Elapsed:   14296.0969978757      
+ sec  |  ETA:   268235.464224965      sec
+ Acceptance rate  0.9705533    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.07000000000000      %  |  Elapsed:   14339.4868031605      
+ sec  |  ETA:   268490.627657599      sec
+ Acceptance rate  0.9706115    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.08000000000000      %  |  Elapsed:   14366.8732475990      
+ sec  |  ETA:   268445.592256318      sec
+ Acceptance rate  0.9704725    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.09000000000000      %  |  Elapsed:   14382.7188600146      
+ sec  |  ETA:   268185.431631431      sec
+ Acceptance rate  0.9705305    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.10000000000000      %  |  Elapsed:   14406.1948285773      
+ sec  |  ETA:   268068.213574900      sec
+ Acceptance rate  0.9705882    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.11000000000000      %  |  Elapsed:   14438.2798355697      
+ sec  |  ETA:   268111.227709825      sec
+ Acceptance rate  0.9706458    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ Progress:    5.12000000000000      %  |  Elapsed:   14593.8337736332      
+ sec  |  ETA:   270441.982117641      sec
+ Acceptance rate  0.9703125    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ Progress:    5.13000000000000      %  |  Elapsed:   14803.2368873537      
+ sec  |  ETA:   273758.885673147      sec
+ Acceptance rate  0.9699805    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.14000000000000      %  |  Elapsed:   14883.8487401220      
+ sec  |  ETA:   274685.192896494      sec
+ Acceptance rate  0.9698443    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.15000000000000      %  |  Elapsed:   14976.3218535271      
+ sec  |  ETA:   275826.044234378      sec
+ Acceptance rate  0.9695145    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ Progress:    5.16000000000000      %  |  Elapsed:   15220.1848081383      
+ sec  |  ETA:   279744.637055007      sec
+ Acceptance rate  0.9691861    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ not converged
+ Progress:    5.17000000000000      %  |  Elapsed:   15536.6316058757      
+ sec  |  ETA:   284978.486496168      sec
+ Acceptance rate  0.9686654    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.18000000000000      %  |  Elapsed:   15616.1482042114      
+ sec  |  ETA:   285853.894348132      sec
+ Acceptance rate  0.9685328    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.19000000000000      %  |  Elapsed:   15649.2272065359      
+ sec  |  ETA:   285877.308564868      sec
+ Acceptance rate  0.9685935    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.20000000000000      %  |  Elapsed:   15687.1182804718      
+ sec  |  ETA:   285988.233267062      sec
+ Acceptance rate  0.9686539    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.21000000000000      %  |  Elapsed:   15704.8714338755      
+ sec  |  ETA:   285732.200233601      sec
+ Acceptance rate  0.9687140    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.22000000000000      %  |  Elapsed:   15723.5226851897      
+ sec  |  ETA:   285493.386992774      sec
+ Acceptance rate  0.9687740    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    5.23000000000000      %  |  Elapsed:   15751.5791786914      
+ sec  |  ETA:   285425.842976019      sec
+ Acceptance rate  0.9686425    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    5.24000000000000      %  |  Elapsed:   15800.5915378639      
+ sec  |  ETA:   285737.414909921      sec
+ Acceptance rate  0.9683206    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    5.25000000000000      %  |  Elapsed:   15956.3231466983      
+ sec  |  ETA:   287973.641552317      sec
+ Acceptance rate  0.9681905    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.26000000000000      %  |  Elapsed:   16052.3428713847      
+ sec  |  ETA:   289125.278257602      sec
+ Acceptance rate  0.9682509    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.27000000000000      %  |  Elapsed:   16078.6272219718      
+ sec  |  ETA:   289018.663517530      sec
+ Acceptance rate  0.9683112    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.28000000000000      %  |  Elapsed:   16100.5701796212      
+ sec  |  ETA:   288834.471101084      sec
+ Acceptance rate  0.9683712    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.29000000000000      %  |  Elapsed:   16117.3687609215      
+ sec  |  ETA:   288558.789290525      sec
+ Acceptance rate  0.9684310    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.30000000000000      %  |  Elapsed:   16130.2071956045      
+ sec  |  ETA:   288213.324796932      sec
+ Acceptance rate  0.9683019    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.31000000000000      %  |  Elapsed:   16139.7157279553      
+ sec  |  ETA:   287809.733009433      sec
+ Acceptance rate  0.9683616    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.32000000000000      %  |  Elapsed:   16160.4802258993      
+ sec  |  ETA:   287607.945072959      sec
+ Acceptance rate  0.9684210    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.33000000000000      %  |  Elapsed:   16210.6685419311      
+ sec  |  ETA:   287929.454195988      sec
+ Acceptance rate  0.9684803    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+ Progress:    5.34000000000000      %  |  Elapsed:   16353.1421918741      
+ sec  |  ETA:   289885.475633483      sec
+ Acceptance rate  0.9681648    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.35000000000000      %  |  Elapsed:   16389.7690249071      
+ sec  |  ETA:   289961.053870554      sec
+ Acceptance rate  0.9682243    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.36000000000000      %  |  Elapsed:   16415.0736523084      
+ sec  |  ETA:   289836.300457924      sec
+ Acceptance rate  0.9682836    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    5.37000000000000      %  |  Elapsed:   16461.5664915126      
+ sec  |  ETA:   290085.295547828      sec
+ Acceptance rate  0.9681564    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.38000000000000      %  |  Elapsed:   16503.1240251691      
+ sec  |  ETA:   290246.393171282      sec
+ Acceptance rate  0.9682156    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.39000000000000      %  |  Elapsed:   16545.9635497897      
+ sec  |  ETA:   290429.241455586      sec
+ Acceptance rate  0.9682746    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.40000000000000      %  |  Elapsed:   16582.3410920198      
+ sec  |  ETA:   290498.049500940      sec
+ Acceptance rate  0.9683333    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.41000000000000      %  |  Elapsed:   16593.1788198752      
+ sec  |  ETA:   290119.923211090      sec
+ Acceptance rate  0.9683919    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.42000000000000      %  |  Elapsed:   16602.5911278145      
+ sec  |  ETA:   289718.278389058      sec
+ Acceptance rate  0.9684502    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.43000000000000      %  |  Elapsed:   16609.6173697466      
+ sec  |  ETA:   289276.522036267      sec
+ Acceptance rate  0.9685083    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.44000000000000      %  |  Elapsed:   16614.2677695106      
+ sec  |  ETA:   288795.066228846      sec
+ Acceptance rate  0.9685662    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.45000000000000      %  |  Elapsed:   16621.9204848967      
+ sec  |  ETA:   288367.446210456      sec
+ Acceptance rate  0.9684404    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.46000000000000      %  |  Elapsed:   16629.3064030607      
+ sec  |  ETA:   287936.744935047      sec
+ Acceptance rate  0.9684982    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.47000000000000      %  |  Elapsed:   16637.4487811185      
+ sec  |  ETA:   287520.664219220      sec
+ Acceptance rate  0.9685557    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.48000000000000      %  |  Elapsed:   16644.4389447288      
+ sec  |  ETA:   287086.198732804      sec
+ Acceptance rate  0.9686131    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.49000000000000      %  |  Elapsed:   16657.6972248924      
+ sec  |  ETA:   286761.195760398      sec
+ Acceptance rate  0.9686703    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.50000000000000      %  |  Elapsed:   16680.4542935260      
+ sec  |  ETA:   286600.532861492      sec
+ Acceptance rate  0.9685454    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.51000000000000      %  |  Elapsed:   16704.1822228658      
+ sec  |  ETA:   286457.019644026      sec
+ Acceptance rate  0.9686025    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    5.52000000000000      %  |  Elapsed:   16754.2010832306      
+ sec  |  ETA:   286763.934482540      sec
+ Acceptance rate  0.9684783    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.53000000000000      %  |  Elapsed:   16827.0459465850      
+ sec  |  ETA:   287459.499199618      sec
+ Acceptance rate  0.9685352    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    5.54000000000000      %  |  Elapsed:   17034.1810324627      
+ sec  |  ETA:   290442.010889247      sec
+ Acceptance rate  0.9684116    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    5.55000000000000      %  |  Elapsed:   17095.3655728940      
+ sec  |  ETA:   290929.239344115      sec
+ Acceptance rate  0.9682883    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.56000000000000      %  |  Elapsed:   17140.3730267461      
+ sec  |  ETA:   291139.717382356      sec
+ Acceptance rate  0.9681655    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.57000000000000      %  |  Elapsed:   17168.8637753376      
+ sec  |  ETA:   291069.265045804      sec
+ Acceptance rate  0.9682226    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.58000000000000      %  |  Elapsed:   17174.5713372550      
+ sec  |  ETA:   290613.445459429      sec
+ Acceptance rate  0.9682795    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.59000000000000      %  |  Elapsed:   17189.1586597476      
+ sec  |  ETA:   290309.207346470      sec
+ Acceptance rate  0.9683363    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.60000000000000      %  |  Elapsed:   17195.6393370242      
+ sec  |  ETA:   289869.348824122      sec
+ Acceptance rate  0.9682143    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.61000000000000      %  |  Elapsed:   17202.8263965896      
+ sec  |  ETA:   289442.920423190      sec
+ Acceptance rate  0.9680927    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.62000000000000      %  |  Elapsed:   17210.6079022926      
+ sec  |  ETA:   289027.966871598      sec
+ Acceptance rate  0.9681495    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.63000000000000      %  |  Elapsed:   17220.2077318185      
+ sec  |  ETA:   288644.938481655      sec
+ Acceptance rate  0.9682060    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.64000000000000      %  |  Elapsed:   17224.8212089781      
+ sec  |  ETA:   288179.810155881      sec
+ Acceptance rate  0.9682624    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.65000000000000      %  |  Elapsed:   17229.7408258945      
+ sec  |  ETA:   287721.424234185      sec
+ Acceptance rate  0.9683186    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.66000000000000      %  |  Elapsed:   17234.0608752666      
+ sec  |  ETA:   287254.647168312      sec
+ Acceptance rate  0.9683746    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.67000000000000      %  |  Elapsed:   17238.4056918670      
+ sec  |  ETA:   286789.913388680      sec
+ Acceptance rate  0.9684303    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.68000000000000      %  |  Elapsed:   17242.6101755013      
+ sec  |  ETA:   286324.470379099      sec
+ Acceptance rate  0.9684859    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.69000000000000      %  |  Elapsed:   17252.6453636291      
+ sec  |  ETA:   285957.290728271      sec
+ Acceptance rate  0.9685413    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.70000000000000      %  |  Elapsed:   17259.9785311627      
+ sec  |  ETA:   285546.662366429      sec
+ Acceptance rate  0.9685965    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.71000000000000      %  |  Elapsed:   17267.9078563289      
+ sec  |  ETA:   285147.291028590      sec
+ Acceptance rate  0.9684764    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.72000000000000      %  |  Elapsed:   17275.7702534518      
+ sec  |  ETA:   284748.185226474      sec
+ Acceptance rate  0.9685315    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.73000000000000      %  |  Elapsed:   17283.0795683949      
+ sec  |  ETA:   284341.345709003      sec
+ Acceptance rate  0.9685864    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.74000000000000      %  |  Elapsed:   17290.9398578564      
+ sec  |  ETA:   283944.946167516      sec
+ Acceptance rate  0.9684669    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.75000000000000      %  |  Elapsed:   17298.2809609782      
+ sec  |  ETA:   283541.387925600      sec
+ Acceptance rate  0.9685217    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.76000000000000      %  |  Elapsed:   17302.6793307962      
+ sec  |  ETA:   283091.059051083      sec
+ Acceptance rate  0.9685764    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.77000000000000      %  |  Elapsed:   17307.6391468237      
+ sec  |  ETA:   282651.444853587      sec
+ Acceptance rate  0.9686309    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.78000000000000      %  |  Elapsed:   17313.2846521260      
+ sec  |  ETA:   282224.512097459      sec
+ Acceptance rate  0.9686852    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.79000000000000      %  |  Elapsed:   17320.9485020284      
+ sec  |  ETA:   281831.875367201      sec
+ Acceptance rate  0.9687392    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.80000000000000      %  |  Elapsed:   17330.9000529565      
+ sec  |  ETA:   281477.721549742      sec
+ Acceptance rate  0.9686207    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.81000000000000      %  |  Elapsed:   17354.5630367578      
+ sec  |  ETA:   281347.038284374      sec
+ Acceptance rate  0.9686747    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.82000000000000      %  |  Elapsed:   17381.9018717760      
+ sec  |  ETA:   281276.205890698      sec
+ Acceptance rate  0.9687285    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.83000000000000      %  |  Elapsed:   17399.9706279668      
+ sec  |  ETA:   281055.786283985      sec
+ Acceptance rate  0.9687822    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.84000000000000      %  |  Elapsed:   17435.8123299654      
+ sec  |  ETA:   281122.617977661      sec
+ Acceptance rate  0.9686644    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.85000000000000      %  |  Elapsed:   17496.2627736726      
+ sec  |  ETA:   281585.152160902      sec
+ Acceptance rate  0.9687179    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.86000000000000      %  |  Elapsed:   17552.9424744509      
+ sec  |  ETA:   281985.325007647      sec
+ Acceptance rate  0.9687713    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.87000000000000      %  |  Elapsed:   17595.2581219524      
+ sec  |  ETA:   282153.602558668      sec
+ Acceptance rate  0.9688245    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.88000000000000      %  |  Elapsed:   17628.1643834107      
+ sec  |  ETA:   282170.549620173      sec
+ Acceptance rate  0.9688776    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.89000000000000      %  |  Elapsed:   17640.5608224072      
+ sec  |  ETA:   281859.622919651      sec
+ Acceptance rate  0.9689304    
+ current tolerance  1.000000000000000E-010
+ not converged
+ Progress:    5.90000000000000      %  |  Elapsed:   17670.6660887271      
+ sec  |  ETA:   281832.148974444      sec
+ Acceptance rate  0.9688135    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.91000000000000      %  |  Elapsed:   17705.4817903680      
+ sec  |  ETA:   281879.658486586      sec
+ Acceptance rate  0.9688663    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.92000000000000      %  |  Elapsed:   17751.2811221834      
+ sec  |  ETA:   282101.440536320      sec
+ Acceptance rate  0.9685811    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.93000000000000      %  |  Elapsed:   17780.1115530441      
+ sec  |  ETA:   282053.135547193      sec
+ Acceptance rate  0.9686341    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.94000000000000      %  |  Elapsed:   17806.2762865112      
+ sec  |  ETA:   281962.684765866      sec
+ Acceptance rate  0.9685185    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.95000000000000      %  |  Elapsed:   17824.4529799770      
+ sec  |  ETA:   281746.185338964      sec
+ Acceptance rate  0.9685714    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.96000000000000      %  |  Elapsed:   17863.0108602096      
+ sec  |  ETA:   281851.936458743      sec
+ Acceptance rate  0.9686242    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.97000000000000      %  |  Elapsed:   17937.1826281652      
+ sec  |  ETA:   282518.137776612      sec
+ Acceptance rate  0.9686767    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.98000000000000      %  |  Elapsed:   18139.8681372907      
+ sec  |  ETA:   285202.408406032      sec
+ Acceptance rate  0.9683946    
+ current tolerance  1.000000000000000E-010
+ Progress:    5.99000000000000      %  |  Elapsed:   18274.6178741404      
+ sec  |  ETA:   286810.822428704      sec
+ Acceptance rate  0.9682805    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.00000000000000      %  |  Elapsed:   18336.9391703771      
+ sec  |  ETA:   287278.713669241      sec
+ Acceptance rate  0.9683333    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.01000000000000      %  |  Elapsed:   18383.4361014254      
+ sec  |  ETA:   287497.364255071      sec
+ Acceptance rate  0.9683860    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.02000000000000      %  |  Elapsed:   18418.8178791257      
+ sec  |  ETA:   287541.612006683      sec
+ Acceptance rate  0.9684386    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.03000000000000      %  |  Elapsed:   18462.7863169611      
+ sec  |  ETA:   287719.407994167      sec
+ Acceptance rate  0.9684909    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.04000000000000      %  |  Elapsed:   18514.5822986206      
+ sec  |  ETA:   288018.237214966      sec
+ Acceptance rate  0.9685431    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.05000000000000      %  |  Elapsed:   18545.2933438087      
+ sec  |  ETA:   287988.480934022      sec
+ Acceptance rate  0.9685950    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.06000000000000      %  |  Elapsed:   18580.4330759377      
+ sec  |  ETA:   288027.373457687      sec
+ Acceptance rate  0.9681518    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.07000000000000      %  |  Elapsed:   18601.8632565285      
+ sec  |  ETA:   287853.874083315      sec
+ Acceptance rate  0.9682043    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.08000000000000      %  |  Elapsed:   18608.8777507448      
+ sec  |  ETA:   287458.190518084      sec
+ Acceptance rate  0.9680921    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.09000000000000      %  |  Elapsed:   18615.2454029862      
+ sec  |  ETA:   287053.808833240      sec
+ Acceptance rate  0.9681445    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.10000000000000      %  |  Elapsed:   18621.6263826857      
+ sec  |  ETA:   286650.937267900      sec
+ Acceptance rate  0.9681967    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.11000000000000      %  |  Elapsed:   18626.9056524036      
+ sec  |  ETA:   286232.433994136      sec
+ Acceptance rate  0.9682488    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.12000000000000      %  |  Elapsed:   18630.9849136297      
+ sec  |  ETA:   285796.873152215      sec
+ Acceptance rate  0.9683006    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.13000000000000      %  |  Elapsed:   18635.2364399103      
+ sec  |  ETA:   285365.358012133      sec
+ Acceptance rate  0.9683524    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.14000000000000      %  |  Elapsed:   18640.4464496817      
+ sec  |  ETA:   284949.886607023      sec
+ Acceptance rate  0.9684039    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.15000000000000      %  |  Elapsed:   18643.2254065452      
+ sec  |  ETA:   284498.651122645      sec
+ Acceptance rate  0.9684553    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.16000000000000      %  |  Elapsed:   18644.5287723080      
+ sec  |  ETA:   284026.392856069      sec
+ Acceptance rate  0.9685065    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.17000000000000      %  |  Elapsed:   18647.4016038328      
+ sec  |  ETA:   283579.528766229      sec
+ Acceptance rate  0.9685575    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.18000000000000      %  |  Elapsed:   18650.6734800811      
+ sec  |  ETA:   283140.159530941      sec
+ Acceptance rate  0.9686084    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.19000000000000      %  |  Elapsed:   18655.5968523037      
+ sec  |  ETA:   282727.227902199      sec
+ Acceptance rate  0.9684976    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.20000000000000      %  |  Elapsed:   18660.9379769182      
+ sec  |  ETA:   282321.932618536      sec
+ Acceptance rate  0.9685484    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.21000000000000      %  |  Elapsed:   18663.7462587894      
+ sec  |  ETA:   281879.671757144      sec
+ Acceptance rate  0.9685990    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.22000000000000      %  |  Elapsed:   18670.5230502305      
+ sec  |  ETA:   281498.657821642      sec
+ Acceptance rate  0.9686495    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.23000000000000      %  |  Elapsed:   18679.9320336368      
+ sec  |  ETA:   281158.463369844      sec
+ Acceptance rate  0.9686998    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.24000000000000      %  |  Elapsed:   18705.2638475101      
+ sec  |  ETA:   281058.579862588      sec
+ Acceptance rate  0.9687500    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.25000000000000      %  |  Elapsed:   18768.9059252096      
+ sec  |  ETA:   281533.588878145      sec
+ Acceptance rate  0.9688000    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.26000000000000      %  |  Elapsed:   18782.4699493528      
+ sec  |  ETA:   281256.986110596      sec
+ Acceptance rate  0.9688498    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.27000000000000      %  |  Elapsed:   18793.4609429329      
+ sec  |  ETA:   280942.758242599      sec
+ Acceptance rate  0.9688995    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.28000000000000      %  |  Elapsed:   18802.8834340957      
+ sec  |  ETA:   280606.088446408      sec
+ Acceptance rate  0.9689490    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.29000000000000      %  |  Elapsed:   18809.5533204623      
+ sec  |  ETA:   280229.450184503      sec
+ Acceptance rate  0.9689984    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.30000000000000      %  |  Elapsed:   18816.8075789537      
+ sec  |  ETA:   279862.677801264      sec
+ Acceptance rate  0.9690476    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.31000000000000      %  |  Elapsed:   18821.8710652855      
+ sec  |  ETA:   279464.516657147      sec
+ Acceptance rate  0.9690967    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.32000000000000      %  |  Elapsed:   18827.6143520104      
+ sec  |  ETA:   279077.676027901      sec
+ Acceptance rate  0.9691456    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.33000000000000      %  |  Elapsed:   18834.9400801051      
+ sec  |  ETA:   278715.456130086      sec
+ Acceptance rate  0.9691943    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.34000000000000      %  |  Elapsed:   18843.1987771189      
+ sec  |  ETA:   278368.138401413      sec
+ Acceptance rate  0.9692429    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.35000000000000      %  |  Elapsed:   18867.0781648303      
+ sec  |  ETA:   278252.263013600      sec
+ Acceptance rate  0.9692913    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.36000000000000      %  |  Elapsed:   18880.8549689767      
+ sec  |  ETA:   277987.933851412      sec
+ Acceptance rate  0.9693396    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.37000000000000      %  |  Elapsed:   18888.1064837819      
+ sec  |  ETA:   277628.478818917      sec
+ Acceptance rate  0.9693878    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.38000000000000      %  |  Elapsed:   18898.8076057627      
+ sec  |  ETA:   277320.747343496      sec
+ Acceptance rate  0.9692790    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.39000000000000      %  |  Elapsed:   18910.1088223930      
+ sec  |  ETA:   277022.736598468      sec
+ Acceptance rate  0.9693271    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.40000000000000      %  |  Elapsed:   18922.4094025348      
+ sec  |  ETA:   276740.237512072      sec
+ Acceptance rate  0.9693750    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.41000000000000      %  |  Elapsed:   18936.0416000481      
+ sec  |  ETA:   276478.023923323      sec
+ Acceptance rate  0.9694228    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.42000000000000      %  |  Elapsed:   18949.9146468721      
+ sec  |  ETA:   276220.095429017      sec
+ Acceptance rate  0.9694704    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.43000000000000      %  |  Elapsed:   18963.5582838398      
+ sec  |  ETA:   275959.587654571      sec
+ Acceptance rate  0.9695179    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.44000000000000      %  |  Elapsed:   18976.1041757788      
+ sec  |  ETA:   275683.898553706      sec
+ Acceptance rate  0.9695652    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.45000000000000      %  |  Elapsed:   18984.2762484436      
+ sec  |  ETA:   275345.588068512      sec
+ Acceptance rate  0.9696124    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.46000000000000      %  |  Elapsed:   18998.4001381313      
+ sec  |  ETA:   275094.481257091      sec
+ Acceptance rate  0.9696594    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.47000000000000      %  |  Elapsed:   19009.2132126414      
+ sec  |  ETA:   274796.246024475      sec
+ Acceptance rate  0.9697064    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.48000000000000      %  |  Elapsed:   19021.6244621149      
+ sec  |  ETA:   274521.962916201      sec
+ Acceptance rate  0.9697531    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.49000000000000      %  |  Elapsed:   19044.0654150837      
+ sec  |  ETA:   274392.997991444      sec
+ Acceptance rate  0.9697997    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.50000000000000      %  |  Elapsed:   19097.1861661347      
+ sec  |  ETA:   274705.677928245      sec
+ Acceptance rate  0.9698461    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.51000000000000      %  |  Elapsed:   19147.5590307997      
+ sec  |  ETA:   274977.771703450      sec
+ Acceptance rate  0.9698925    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.52000000000000      %  |  Elapsed:   19208.7166083246      
+ sec  |  ETA:   275403.501310764      sec
+ Acceptance rate  0.9699386    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.53000000000000      %  |  Elapsed:   19275.5888350485      
+ sec  |  ETA:   275909.538807348      sec
+ Acceptance rate  0.9699847    
+ current tolerance  1.000000000000000E-010
+ Progress:    6.54000000000000      %  |  Elapsed:   19534.6493281960      
+ sec  |  ETA:   279160.294528011      sec
+ Acceptance rate  0.9700306    
+ current tolerance  1.000000000000000E-010
+ not converged
+ not converged
+forrtl: error (78): process killed (SIGTERM)
+Image              PC                Routine            Line        Source             
+libc.so.6          000070EA61E45330  Unknown               Unknown  Unknown
+libc.so.6          000070EA61E4553B  kill                  Unknown  Unknown
+generate_markov_c  000000000047ABE0  Unknown               Unknown  Unknown
+generate_markov_c  00000000004068DD  Unknown               Unknown  Unknown
+generate_markov_c  0000000000407E82  Unknown               Unknown  Unknown
+generate_markov_c  0000000000422346  Unknown               Unknown  Unknown
+generate_markov_c  000000000041AFBA  Unknown               Unknown  Unknown
+generate_markov_c  0000000000421941  Unknown               Unknown  Unknown
+generate_markov_c  000000000042AFD9  Unknown               Unknown  Unknown
+generate_markov_c  000000000043364B  Unknown               Unknown  Unknown
+generate_markov_c  0000000000442A8A  Unknown               Unknown  Unknown
+generate_markov_c  0000000000459243  Unknown               Unknown  Unknown
+generate_markov_c  000000000045BEFD  Unknown               Unknown  Unknown
+generate_markov_c  00000000004053BD  Unknown               Unknown  Unknown
+libc.so.6          000070EA61E2A1CA  Unknown               Unknown  Unknown
+libc.so.6          000070EA61E2A28B  __libc_start_main     Unknown  Unknown
+generate_markov_c  00000000004052D5  Unknown               Unknown  Unknown
